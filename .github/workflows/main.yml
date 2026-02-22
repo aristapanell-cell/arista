@@ -42,6 +42,9 @@ jobs:
       run: |
         rm -rf configs/
         mkdir -p configs/telegram configs/github configs/combined configs/clashmeta configs/singbox
+        mkdir -p configs/telegram/security configs/telegram/network
+        mkdir -p configs/github/security configs/github/network
+        mkdir -p configs/clashmeta/telegram configs/clashmeta/github
         
     - name: Run Telegram Config Extractor
       run: python telegram_extractor.py
