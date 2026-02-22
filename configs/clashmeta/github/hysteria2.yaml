@@ -773,7 +773,7 @@ proxies:
   server: 206.71.158.37
   port: 36300
   password: Yet-Another-Public-Config-1
-  sni: YAPC-1.afshin.ir@freenettir
+  sni: YAPC-1.afshin.ir
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
@@ -781,27 +781,14 @@ proxies:
   obfs-password: Yet-Another-Public-Config-1
 - name: 'Hysteria2 #70'
   type: hysteria2
-  server: 206.71.158.37
-  port: 36300
-  password: Yet-Another-Public-Config-1
-  sni: YAPC-1.afshin.ir
+  server: 324d9cff-t6ngg0-t9lc3n-z93q.us.hyhuawei.com
+  port: 443
+  password: 40639730-e027-11ea-87ad-f23c913c8d2b
+  sni: 324d9cff-t6ngg0-t9lc3n-z93q.us.hyhuawei.com
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
 - name: 'Hysteria2 #71'
-  type: hysteria2
-  server: 5.175.249.174
-  port: 35000
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  sni: api.kermanshahi.org@freenettir
-  skip-cert-verify: false
-  fast-open: true
-  client-fingerprint: chrome
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-- name: 'Hysteria2 #72'
   type: hysteria2
   server: 206.71.158.37
   port: 36600
@@ -812,7 +799,110 @@ proxies:
   client-fingerprint: chrome
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
+- name: 'Hysteria2 #72'
+  type: hysteria2
+  server: 5.175.249.174
+  port: 35000
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  sni: api.kermanshahi.org@freenettir
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
 - name: 'Hysteria2 #73'
+  type: hysteria2
+  server: gavazn.lnmarketplace.net
+  port: 45000
+  password: Telegram--%3E@Ln2Ray
+  sni: gavazn.55994421.xyz
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+- name: 'Hysteria2 #74'
+  type: hysteria2
+  server: d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com
+  port: 443
+  password: 6857f1bc-f27b-11ea-87ad-f23c913c8d2b
+  sni: d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+- name: 'Hysteria2 #75'
+  type: hysteria2
+  server: 107.167.18.123
+  port: 1743
+  password: be8cc8f6-0c6a-11f0-a5a3-f23c93141fad
+  sni: ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+- name: 'Hysteria2 #76'
+  type: hysteria2
+  server: a27b1341-t59gg0-tb74a6-1q9g2.us.hyhuawei.com
+  port: 443
+  password: 9d80dd14-ac44-11ee-a116-f23c9164ca5d
+  sni: a27b1341-t59gg0-tb74a6-1q9g2.us.hyhuawei.com
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+- name: 'Hysteria2 #77'
+  type: hysteria2
+  server: a4cf26ca-t55r40-tcop2n-tl32.us.hyhuawei.com
+  port: 443
+  password: 5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b
+  sni: a4cf26ca-t55r40-tcop2n-tl32.us.hyhuawei.com
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+- name: 'Hysteria2 #78'
+  type: hysteria2
+  server: 35f78bc6-t6pb40-tcmtfl-1qudp.hk2.hyhuawei.com
+  port: 443
+  password: 99129cef-f705-11ee-ada6-f23c91cfbbc9
+  sni: 35f78bc6-t6pb40-tcmtfl-1qudp.hk2.hyhuawei.com
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+- name: 'Hysteria2 #79'
+  type: hysteria2
+  server: 6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk
+  port: 1743
+  password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
+  sni: 6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+- name: 'Hysteria2 #80'
+  type: hysteria2
+  server: 86b4787e-t6pb40-t8xyf4-1l0qa.hk2.hyhuawei.com
+  port: 443
+  password: 0720c874-35e8-11ef-aa88-f23c913c8d2b
+  sni: 86b4787e-t6pb40-t8xyf4-1l0qa.hk2.hyhuawei.com
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+- name: 'Hysteria2 #81'
+  type: hysteria2
+  server: 206.71.158.37
+  port: 36300
+  password: Yet-Another-Public-Config-1
+  sni: YAPC-1.afshin.ir@freenettir
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+- name: 'Hysteria2 #82'
+  type: hysteria2
+  server: 4ec4fca5-t6r5s0-tc2sod-1tizo.hk1.hyhuawei.com
+  port: 443
+  password: bf36227c-0191-11f0-aee1-f23c91cfbbc9
+  sni: 4ec4fca5-t6r5s0-tc2sod-1tizo.hk1.hyhuawei.com
+  skip-cert-verify: false
+  fast-open: true
+  client-fingerprint: chrome
+- name: 'Hysteria2 #83'
   type: hysteria2
   server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
   port: 1743
@@ -821,7 +911,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #74'
+- name: 'Hysteria2 #84'
   type: hysteria2
   server: 91.132.51.160
   port: 844
@@ -830,7 +920,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #75'
+- name: 'Hysteria2 #85'
   type: hysteria2
   server: 129.151.251.122
   port: 35000
@@ -839,7 +929,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #76'
+- name: 'Hysteria2 #86'
   type: hysteria2
   server: 129.153.25.59
   port: 35000
@@ -848,7 +938,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #77'
+- name: 'Hysteria2 #87'
   type: hysteria2
   server: 143.47.32.143
   port: 35000
@@ -857,7 +947,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #78'
+- name: 'Hysteria2 #88'
   type: hysteria2
   server: dd.openaccessnode.com
   port: 989
@@ -868,7 +958,7 @@ proxies:
   client-fingerprint: chrome
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
-- name: 'Hysteria2 #79'
+- name: 'Hysteria2 #89'
   type: hysteria2
   server: mg2.mangshe.xyz
   port: 2056
@@ -877,7 +967,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #80'
+- name: 'Hysteria2 #90'
   type: hysteria2
   server: xjp1.mangshe.xyz
   port: 2055
@@ -886,7 +976,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #81'
+- name: 'Hysteria2 #91'
   type: hysteria2
   server: jp7.dexlos.com
   port: 13778
@@ -895,7 +985,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #82'
+- name: 'Hysteria2 #92'
   type: hysteria2
   server: 2a14:3f87:f001:9::a
   port: 45000
@@ -906,7 +996,7 @@ proxies:
   client-fingerprint: chrome
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
-- name: 'Hysteria2 #83'
+- name: 'Hysteria2 #93'
   type: hysteria2
   server: 206.71.158.37
   port: 36400
@@ -917,7 +1007,7 @@ proxies:
   client-fingerprint: chrome
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
-- name: 'Hysteria2 #84'
+- name: 'Hysteria2 #94'
   type: hysteria2
   server: de.eyucdn.xyz
   port: 2056
@@ -926,7 +1016,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #85'
+- name: 'Hysteria2 #95'
   type: hysteria2
   server: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
   port: 443
@@ -935,7 +1025,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #86'
+- name: 'Hysteria2 #96'
   type: hysteria2
   server: 206.71.158.40
   port: 35000
@@ -946,7 +1036,7 @@ proxies:
   client-fingerprint: chrome
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-- name: 'Hysteria2 #87'
+- name: 'Hysteria2 #97'
   type: hysteria2
   server: 206.71.158.41
   port: 35000
@@ -957,7 +1047,7 @@ proxies:
   client-fingerprint: chrome
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-- name: 'Hysteria2 #88'
+- name: 'Hysteria2 #98'
   type: hysteria2
   server: sg3.oomz.ru
   port: 30000
@@ -966,7 +1056,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #89'
+- name: 'Hysteria2 #99'
   type: hysteria2
   server: tw.oomz.ru
   port: 30000
@@ -975,7 +1065,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #90'
+- name: 'Hysteria2 #100'
   type: hysteria2
   server: 129.151.193.163
   port: 50000
@@ -984,7 +1074,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #91'
+- name: 'Hysteria2 #101'
   type: hysteria2
   server: 132.145.28.17
   port: 65535
@@ -993,7 +1083,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #92'
+- name: 'Hysteria2 #102'
   type: hysteria2
   server: 132.145.52.10
   port: 65535
@@ -1002,7 +1092,7 @@ proxies:
   skip-cert-verify: false
   fast-open: true
   client-fingerprint: chrome
-- name: 'Hysteria2 #93'
+- name: 'Hysteria2 #103'
   type: hysteria2
   server: 152.70.176.68
   port: 1
@@ -1109,6 +1199,16 @@ proxy-groups:
   - 'Hysteria2 #91'
   - 'Hysteria2 #92'
   - 'Hysteria2 #93'
+  - 'Hysteria2 #94'
+  - 'Hysteria2 #95'
+  - 'Hysteria2 #96'
+  - 'Hysteria2 #97'
+  - 'Hysteria2 #98'
+  - 'Hysteria2 #99'
+  - 'Hysteria2 #100'
+  - 'Hysteria2 #101'
+  - 'Hysteria2 #102'
+  - 'Hysteria2 #103'
   - DIRECT
 - name: Auto Select
   type: url-test
@@ -1206,6 +1306,16 @@ proxy-groups:
   - 'Hysteria2 #91'
   - 'Hysteria2 #92'
   - 'Hysteria2 #93'
+  - 'Hysteria2 #94'
+  - 'Hysteria2 #95'
+  - 'Hysteria2 #96'
+  - 'Hysteria2 #97'
+  - 'Hysteria2 #98'
+  - 'Hysteria2 #99'
+  - 'Hysteria2 #100'
+  - 'Hysteria2 #101'
+  - 'Hysteria2 #102'
+  - 'Hysteria2 #103'
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 150
