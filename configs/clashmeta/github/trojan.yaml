@@ -76,7 +76,7 @@ sniffer:
       - 2087
       - 2096
 proxies:
-- name: 'T.ME: @aristapnel #1'
+- name: 'Trojan #1'
   type: trojan
   server: 172.67.180.92
   port: 443
@@ -91,7 +91,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #2'
+- name: 'Trojan #2'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -106,7 +106,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #3'
+- name: 'Trojan #3'
   type: trojan
   server: v1.dabache.top
   port: 443
@@ -121,7 +121,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #4'
+- name: 'Trojan #4'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -136,7 +136,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #5'
+- name: 'Trojan #5'
   type: trojan
   server: 104.18.11.110
   port: 443
@@ -151,7 +151,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #6'
+- name: 'Trojan #6'
   type: trojan
   server: v1.dabache.top
   port: 443
@@ -166,7 +166,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #7'
+- name: 'Trojan #7'
   type: trojan
   server: v1.dabache.top
   port: 8443
@@ -181,7 +181,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #8'
+- name: 'Trojan #8'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -196,7 +196,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #9'
+- name: 'Trojan #9'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -211,7 +211,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #10'
+- name: 'Trojan #10'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -226,7 +226,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #11'
+- name: 'Trojan #11'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -241,7 +241,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #12'
+- name: 'Trojan #12'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -256,7 +256,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #13'
+- name: 'Trojan #13'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -271,7 +271,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #14'
+- name: 'Trojan #14'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -286,7 +286,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #15'
+- name: 'Trojan #15'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -304,7 +304,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #16'
+- name: 'Trojan #16'
   type: trojan
   server: 172.67.180.92
   port: 443
@@ -319,7 +319,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #17'
+- name: 'Trojan #17'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -334,7 +334,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #18'
+- name: 'Trojan #18'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -349,7 +349,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #19'
+- name: 'Trojan #19'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -364,7 +364,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #20'
+- name: 'Trojan #20'
   type: trojan
   server: 104.18.11.110
   port: 443
@@ -379,7 +379,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #21'
+- name: 'Trojan #21'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -394,7 +394,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #22'
+- name: 'Trojan #22'
   type: trojan
   server: v1.dabache.top
   port: 443
@@ -409,7 +409,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #23'
+- name: 'Trojan #23'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -424,7 +424,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #24'
+- name: 'Trojan #24'
   type: trojan
   server: 188.116.22.217
   port: 2083
@@ -439,7 +439,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: xo.e0f.cx
-- name: 'T.ME: @aristapnel #25'
+- name: 'Trojan #25'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -454,7 +454,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #26'
+- name: 'Trojan #26'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -469,7 +469,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #27'
+- name: 'Trojan #27'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -484,7 +484,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #28'
+- name: 'Trojan #28'
   type: trojan
   server: 172.67.180.92
   port: 443
@@ -499,7 +499,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #29'
+- name: 'Trojan #29'
   type: trojan
   server: 104.21.40.34
   port: 443
@@ -514,7 +514,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #30'
+- name: 'Trojan #30'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -529,7 +529,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #31'
+- name: 'Trojan #31'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -544,7 +544,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #32'
+- name: 'Trojan #32'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -559,7 +559,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #33'
+- name: 'Trojan #33'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -574,7 +574,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #34'
+- name: 'Trojan #34'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -589,7 +589,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #35'
+- name: 'Trojan #35'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -604,7 +604,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #36'
+- name: 'Trojan #36'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev
   port: 8443
@@ -619,7 +619,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev
-- name: 'T.ME: @aristapnel #37'
+- name: 'Trojan #37'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev
   port: 2053
@@ -634,7 +634,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev
-- name: 'T.ME: @aristapnel #38'
+- name: 'Trojan #38'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev
   port: 2087
@@ -649,7 +649,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev
-- name: 'T.ME: @aristapnel #39'
+- name: 'Trojan #39'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev
   port: 2083
@@ -664,7 +664,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev
-- name: 'T.ME: @aristapnel #40'
+- name: 'Trojan #40'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev
   port: 2096
@@ -679,7 +679,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev
-- name: 'T.ME: @aristapnel #41'
+- name: 'Trojan #41'
   type: trojan
   server: 188.116.22.217
   port: 2083
@@ -694,7 +694,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: xo.e0f.cx
-- name: 'T.ME: @aristapnel #42'
+- name: 'Trojan #42'
   type: trojan
   server: 188.116.22.217
   port: 2083
@@ -709,7 +709,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: xo.e0f.cx
-- name: 'T.ME: @aristapnel #43'
+- name: 'Trojan #43'
   type: trojan
   server: 188.116.22.217
   port: 2083
@@ -724,7 +724,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: xo.e0f.cx
-- name: 'T.ME: @aristapnel #44'
+- name: 'Trojan #44'
   type: trojan
   server: ilop.uk2033.ccwu.cc
   port: 443
@@ -741,7 +741,7 @@ proxies:
     path: /XCLcnSashhgSVE3HOw1VI85y
     headers:
       Host: ilop.uk2033.ccwu.cc
-- name: 'T.ME: @aristapnel #45'
+- name: 'Trojan #45'
   type: trojan
   server: u8.ok8.ccwu.cc
   port: 443
@@ -758,7 +758,7 @@ proxies:
     path: /XCLcnSashhgSVE3HOw1VI85y
     headers:
       Host: u8.ok8.ccwu.cc
-- name: 'T.ME: @aristapnel #46'
+- name: 'Trojan #46'
   type: trojan
   server: y.taiwan2029.indevs.in
   port: 443
@@ -775,7 +775,7 @@ proxies:
     path: /RXvyoH0kyRosKkycyrxcJWNVFC21
     headers:
       Host: y.taiwan2029.indevs.in
-- name: 'T.ME: @aristapnel #47'
+- name: 'Trojan #47'
   type: trojan
   server: 104.21.17.25
   port: 443
@@ -792,7 +792,7 @@ proxies:
     path: /2cO5FH0xUmT9oqnbBhmKb8nOkg
     headers:
       Host: vvvbnj.taipei102.indevs.in
-- name: 'T.ME: @aristapnel #48'
+- name: 'Trojan #48'
   type: trojan
   server: 104.21.23.210
   port: 443
@@ -809,7 +809,7 @@ proxies:
     path: /2cO5FH0xUmT9oqnbBhmKb8nOkg
     headers:
       Host: ggbnhj.932.pp.ua
-- name: 'T.ME: @aristapnel #49'
+- name: 'Trojan #49'
   type: trojan
   server: thj.huangzi.cfd
   port: 443
@@ -826,7 +826,7 @@ proxies:
     path: /FYzt5jjXXYWmzP5D1vsO
     headers:
       Host: thj.huangzi.cfd
-- name: 'T.ME: @aristapnel #50'
+- name: 'Trojan #50'
   type: trojan
   server: ggbnh.7777198.xyz
   port: 443
@@ -843,7 +843,7 @@ proxies:
     path: /r862SIwqItkD5XgXAL
     headers:
       Host: GGbNH.7777198.xyZ
-- name: 'T.ME: @aristapnel #51'
+- name: 'Trojan #51'
   type: trojan
   server: ggbnh.7777198.xyz
   port: 443
@@ -860,7 +860,7 @@ proxies:
     path: /r862SIwqItkD5XgXAL
     headers:
       Host: GGbNH.7777198.xyZ
-- name: 'T.ME: @aristapnel #52'
+- name: 'Trojan #52'
   type: trojan
   server: ggbnh.7777198.xyz
   port: 443
@@ -877,7 +877,7 @@ proxies:
     path: /r862SIwqItkD5XgXAL
     headers:
       Host: GGbNH.7777198.xyZ
-- name: 'T.ME: @aristapnel #53'
+- name: 'Trojan #53'
   type: trojan
   server: vvbghy.huangshang.online
   port: 443
@@ -894,7 +894,7 @@ proxies:
     path: /r862SIwqItkD5XgXAL
     headers:
       Host: vvbghy.huangshang.online
-- name: 'T.ME: @aristapnel #54'
+- name: 'Trojan #54'
   type: trojan
   server: nhju.ae1autumn.indevs.in
   port: 443
@@ -911,7 +911,7 @@ proxies:
     path: /P23lDbkARo4gds7cXpDB5nO5
     headers:
       Host: nhju.ae1autumn.indevs.in
-- name: 'T.ME: @aristapnel #55'
+- name: 'Trojan #55'
   type: trojan
   server: r56.bb0.ccwu.cc
   port: 443
@@ -926,7 +926,7 @@ proxies:
     path: /P23lDbkARo4gds7cXpDB5nO5
     headers:
       Host: r56.bb0.ccwu.cc
-- name: 'T.ME: @aristapnel #56'
+- name: 'Trojan #56'
   type: trojan
   server: r56.bb0.ccwu.cc
   port: 443
@@ -941,7 +941,7 @@ proxies:
     path: /P23lDbkARo4gds7cXpDB5nO5
     headers:
       Host: r56.bb0.ccwu.cc
-- name: 'T.ME: @aristapnel #57'
+- name: 'Trojan #57'
   type: trojan
   server: bnhju.dddct.us.ci
   port: 443
@@ -958,7 +958,7 @@ proxies:
     path: /4e633j8uZI4BWzwNzcYz
     headers:
       Host: bnhju.dddct.us.ci
-- name: 'T.ME: @aristapnel #58'
+- name: 'Trojan #58'
   type: trojan
   server: ghj.huangdi2025.dpdns.org
   port: 443
@@ -975,7 +975,7 @@ proxies:
     path: /4e633j8uZI4BWzwNzcYz
     headers:
       Host: ghj.huangdi2025.dpdns.org
-- name: 'T.ME: @aristapnel #59'
+- name: 'Trojan #59'
   type: trojan
   server: hji.huangdi2025.dpdns.org
   port: 443
@@ -992,7 +992,7 @@ proxies:
     path: /4e633j8uZI4BWzwNzcYz
     headers:
       Host: hji.huangdi2025.dpdns.org
-- name: 'T.ME: @aristapnel #60'
+- name: 'Trojan #60'
   type: trojan
   server: hnm.huangdi2025.dpdns.org
   port: 443
@@ -1009,7 +1009,7 @@ proxies:
     path: /4e633j8uZI4BWzwNzcYz
     headers:
       Host: hnm.huangdi2025.dpdns.org
-- name: 'T.ME: @aristapnel #61'
+- name: 'Trojan #61'
   type: trojan
   server: jjkii.003330333.xyz
   port: 443
@@ -1026,7 +1026,7 @@ proxies:
     path: /pdfbAl1zmvpSIH8OSONBms
     headers:
       Host: jjkii.003330333.xyz
-- name: 'T.ME: @aristapnel #62'
+- name: 'Trojan #62'
   type: trojan
   server: 160.16.105.192
   port: 193
@@ -1037,7 +1037,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #63'
+- name: 'Trojan #63'
   type: trojan
   server: 160.16.105.192
   port: 193
@@ -1048,7 +1048,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #64'
+- name: 'Trojan #64'
   type: trojan
   server: 160.16.105.192
   port: 193
@@ -1059,7 +1059,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #65'
+- name: 'Trojan #65'
   type: trojan
   server: 160.16.106.99
   port: 1281
@@ -1070,7 +1070,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #66'
+- name: 'Trojan #66'
   type: trojan
   server: 160.16.106.99
   port: 1281
@@ -1081,7 +1081,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #67'
+- name: 'Trojan #67'
   type: trojan
   server: 160.16.106.99
   port: 1281
@@ -1092,7 +1092,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #68'
+- name: 'Trojan #68'
   type: trojan
   server: 160.16.116.227
   port: 1281
@@ -1103,7 +1103,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #69'
+- name: 'Trojan #69'
   type: trojan
   server: 160.16.116.227
   port: 1281
@@ -1114,7 +1114,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #70'
+- name: 'Trojan #70'
   type: trojan
   server: 160.16.236.32
   port: 1281
@@ -1125,7 +1125,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #71'
+- name: 'Trojan #71'
   type: trojan
   server: 160.16.57.238
   port: 193
@@ -1136,7 +1136,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #72'
+- name: 'Trojan #72'
   type: trojan
   server: 160.16.236.32
   port: 1281
@@ -1147,7 +1147,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #73'
+- name: 'Trojan #73'
   type: trojan
   server: 160.16.72.205
   port: 1281
@@ -1158,7 +1158,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #74'
+- name: 'Trojan #74'
   type: trojan
   server: 160.16.72.205
   port: 1281
@@ -1169,7 +1169,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #75'
+- name: 'Trojan #75'
   type: trojan
   server: 160.16.72.33
   port: 3423
@@ -1180,7 +1180,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #76'
+- name: 'Trojan #76'
   type: trojan
   server: 160.16.72.205
   port: 1281
@@ -1191,7 +1191,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #77'
+- name: 'Trojan #77'
   type: trojan
   server: 160.16.72.33
   port: 3423
@@ -1202,7 +1202,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #78'
+- name: 'Trojan #78'
   type: trojan
   server: 58.152.53.227
   port: 443
@@ -1213,7 +1213,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #79'
+- name: 'Trojan #79'
   type: trojan
   server: 58.152.53.227
   port: 443
@@ -1224,7 +1224,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #80'
+- name: 'Trojan #80'
   type: trojan
   server: hjk.freevpn2027.dpdns.org
   port: 443
@@ -1241,7 +1241,7 @@ proxies:
     path: /ElrtQ8CAz6RgfMaiN9LMya
     headers:
       Host: hjk.freevpn2027.dpdns.org
-- name: 'T.ME: @aristapnel #81'
+- name: 'Trojan #81'
   type: trojan
   server: yhj.huangshang2026.indevs.in
   port: 443
@@ -1258,7 +1258,7 @@ proxies:
     path: /ElrtQ8CAz6RgfMaiN9LMya
     headers:
       Host: yhj.huangshang2026.indevs.in
-- name: 'T.ME: @aristapnel #82'
+- name: 'Trojan #82'
   type: trojan
   server: 27.122.59.45
   port: 443
@@ -1269,7 +1269,7 @@ proxies:
   tcp-fast-open: true
   servername: 45.32.28.232
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #83'
+- name: 'Trojan #83'
   type: trojan
   server: sg.singaporenodeserverone.co.ua
   port: 443
@@ -1280,7 +1280,7 @@ proxies:
   tcp-fast-open: true
   servername: 45.32.28.232
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #84'
+- name: 'Trojan #84'
   type: trojan
   server: 61.228.68.42
   port: 3462
@@ -1291,7 +1291,7 @@ proxies:
   tcp-fast-open: true
   servername: 45.32.28.232
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #85'
+- name: 'Trojan #85'
   type: trojan
   server: sg.singaporenodeserverone.co.ua
   port: 443
@@ -1302,7 +1302,7 @@ proxies:
   tcp-fast-open: true
   servername: 45.32.28.232
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #86'
+- name: 'Trojan #86'
   type: trojan
   server: 172.67.211.79
   port: 443
@@ -1317,7 +1317,7 @@ proxies:
     path: /tjwsLhx0SFASG4l9FERJ1g
     headers:
       Host: mfyousheng.nl.eu.org
-- name: 'T.ME: @aristapnel #87'
+- name: 'Trojan #87'
   type: trojan
   server: sweden.vmaxpanel.com
   port: 8443
@@ -1332,7 +1332,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #88'
+- name: 'Trojan #88'
   type: trojan
   server: sweden.vmaxpanel.com
   port: 8443
@@ -1347,7 +1347,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #89'
+- name: 'Trojan #89'
   type: trojan
   server: sweden.vmaxpanel.com
   port: 8443
@@ -1362,7 +1362,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #90'
+- name: 'Trojan #90'
   type: trojan
   server: v1.dabache.top
   port: 8443
@@ -1377,7 +1377,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #91'
+- name: 'Trojan #91'
   type: trojan
   server: hl-freedom-2.undef.network
   port: 443
@@ -1388,7 +1388,7 @@ proxies:
   tcp-fast-open: true
   servername: hl-freedom-2.undef.network
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #92'
+- name: 'Trojan #92'
   type: trojan
   server: uu.852224.xyz
   port: 443
@@ -1405,7 +1405,7 @@ proxies:
     path: /iEIlQmeiFdOPjqSc7fzeJr
     headers:
       Host: uu.852224.xyz
-- name: 'T.ME: @aristapnel #93'
+- name: 'Trojan #93'
   type: trojan
   server: 104.21.75.193
   port: 443
@@ -1422,7 +1422,7 @@ proxies:
     path: /tr?ed=2560
     headers:
       Host: mashdt.pages.dev
-- name: 'T.ME: @aristapnel #94'
+- name: 'Trojan #94'
   type: trojan
   server: 172.67.180.227
   port: 443
@@ -1439,7 +1439,7 @@ proxies:
     path: /tr?ed=2560
     headers:
       Host: mashdt.pages.dev
-- name: 'T.ME: @aristapnel #95'
+- name: 'Trojan #95'
   type: trojan
   server: bgty6.852224.xyz
   port: 443
@@ -1456,7 +1456,7 @@ proxies:
     path: /PDbJ6Qn4xImwtg6PusRbe
     headers:
       Host: bgty6.852224.xyz
-- name: 'T.ME: @aristapnel #96'
+- name: 'Trojan #96'
   type: trojan
   server: hhnm.7777128.xyz
   port: 443
@@ -1473,7 +1473,7 @@ proxies:
     path: /tSROScnWofV7ia41dH
     headers:
       Host: hhnm.7777128.xyz
-- name: 'T.ME: @aristapnel #97'
+- name: 'Trojan #97'
   type: trojan
   server: iiiiii9.huangshang.us.ci
   port: 443
@@ -1490,7 +1490,7 @@ proxies:
     path: /tSROScnWofV7ia41dH
     headers:
       Host: iiiiiI9.hUANgShaNG.uS.Ci
-- name: 'T.ME: @aristapnel #98'
+- name: 'Trojan #98'
   type: trojan
   server: llllllllo.890404.indevs.in
   port: 443
@@ -1507,7 +1507,7 @@ proxies:
     path: /tSROScnWofV7ia41dH
     headers:
       Host: llllllllo.890404.indevs.in
-- name: 'T.ME: @aristapnel #99'
+- name: 'Trojan #99'
   type: trojan
   server: 172.67.182.181
   port: 443
@@ -1524,7 +1524,7 @@ proxies:
     path: /8uSIAS1cIyvZXFAbvQEN
     headers:
       Host: bnhju.8mm.ccwu.cc
-- name: 'T.ME: @aristapnel #100'
+- name: 'Trojan #100'
   type: trojan
   server: hnj.818185.xyz
   port: 443
@@ -1541,7 +1541,7 @@ proxies:
     path: /8uSIAS1cIyvZXFAbvQEN
     headers:
       Host: hnj.818185.xyz
-- name: 'T.ME: @aristapnel #101'
+- name: 'Trojan #101'
   type: trojan
   server: vbhju.818185.xyz
   port: 443
@@ -1558,7 +1558,7 @@ proxies:
     path: /8uSIAS1cIyvZXFAbvQEN
     headers:
       Host: vbhju.818185.xyz
-- name: 'T.ME: @aristapnel #102'
+- name: 'Trojan #102'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -1573,7 +1573,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #103'
+- name: 'Trojan #103'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -1588,7 +1588,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #104'
+- name: 'Trojan #104'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -1603,7 +1603,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #105'
+- name: 'Trojan #105'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -1618,7 +1618,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #106'
+- name: 'Trojan #106'
   type: trojan
   server: 104.21.40.34
   port: 443
@@ -1633,7 +1633,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #107'
+- name: 'Trojan #107'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -1648,7 +1648,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #108'
+- name: 'Trojan #108'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -1666,7 +1666,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #109'
+- name: 'Trojan #109'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -1681,7 +1681,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #110'
+- name: 'Trojan #110'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -1696,7 +1696,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #111'
+- name: 'Trojan #111'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -1711,7 +1711,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #112'
+- name: 'Trojan #112'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -1726,7 +1726,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #113'
+- name: 'Trojan #113'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -1741,7 +1741,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #114'
+- name: 'Trojan #114'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -1756,7 +1756,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #115'
+- name: 'Trojan #115'
   type: trojan
   server: 172.67.180.92
   port: 443
@@ -1771,7 +1771,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #116'
+- name: 'Trojan #116'
   type: trojan
   server: 172.67.180.92
   port: 443
@@ -1786,7 +1786,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #117'
+- name: 'Trojan #117'
   type: trojan
   server: 172.67.180.92
   port: 443
@@ -1801,7 +1801,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #118'
+- name: 'Trojan #118'
   type: trojan
   server: 172.67.180.92
   port: 443
@@ -1816,7 +1816,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #119'
+- name: 'Trojan #119'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -1831,7 +1831,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #120'
+- name: 'Trojan #120'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -1846,7 +1846,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #121'
+- name: 'Trojan #121'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -1861,7 +1861,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #122'
+- name: 'Trojan #122'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -1876,7 +1876,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #123'
+- name: 'Trojan #123'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -1891,7 +1891,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #124'
+- name: 'Trojan #124'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -1906,7 +1906,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #125'
+- name: 'Trojan #125'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -1921,7 +1921,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #126'
+- name: 'Trojan #126'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -1936,7 +1936,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #127'
+- name: 'Trojan #127'
   type: trojan
   server: v1.dabache.top
   port: 443
@@ -1951,7 +1951,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #128'
+- name: 'Trojan #128'
   type: trojan
   server: chatgpt.com
   port: 443
@@ -1966,7 +1966,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #129'
+- name: 'Trojan #129'
   type: trojan
   server: v1.dabache.top
   port: 443
@@ -1981,7 +1981,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #130'
+- name: 'Trojan #130'
   type: trojan
   server: v1.dabache.top
   port: 443
@@ -1996,7 +1996,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #131'
+- name: 'Trojan #131'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -2011,7 +2011,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #132'
+- name: 'Trojan #132'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -2026,7 +2026,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #133'
+- name: 'Trojan #133'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -2041,7 +2041,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #134'
+- name: 'Trojan #134'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -2056,7 +2056,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #135'
+- name: 'Trojan #135'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -2071,7 +2071,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #136'
+- name: 'Trojan #136'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -2086,7 +2086,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #137'
+- name: 'Trojan #137'
   type: trojan
   server: www.creationlong.org
   port: 443
@@ -2101,7 +2101,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #138'
+- name: 'Trojan #138'
   type: trojan
   server: www.creationlong.org
   port: 443
@@ -2119,7 +2119,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #139'
+- name: 'Trojan #139'
   type: trojan
   server: www.creationlong.org
   port: 443
@@ -2137,7 +2137,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #140'
+- name: 'Trojan #140'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -2152,7 +2152,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #141'
+- name: 'Trojan #141'
   type: trojan
   server: www.creationlong.org
   port: 443
@@ -2167,7 +2167,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #142'
+- name: 'Trojan #142'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -2182,7 +2182,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #143'
+- name: 'Trojan #143'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -2197,7 +2197,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #144'
+- name: 'Trojan #144'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -2212,7 +2212,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #145'
+- name: 'Trojan #145'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -2227,7 +2227,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #146'
+- name: 'Trojan #146'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -2242,7 +2242,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #147'
+- name: 'Trojan #147'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -2257,7 +2257,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #148'
+- name: 'Trojan #148'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -2272,7 +2272,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #149'
+- name: 'Trojan #149'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -2287,7 +2287,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #150'
+- name: 'Trojan #150'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -2302,7 +2302,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #151'
+- name: 'Trojan #151'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -2317,7 +2317,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #152'
+- name: 'Trojan #152'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -2332,7 +2332,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #153'
+- name: 'Trojan #153'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -2347,7 +2347,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #154'
+- name: 'Trojan #154'
   type: trojan
   server: 94.131.122.254
   port: 443
@@ -2362,7 +2362,7 @@ proxies:
     path: /f2fc2a1f
     headers:
       Host: hl-freedom-2.undef.network
-- name: 'T.ME: @aristapnel #155'
+- name: 'Trojan #155'
   type: trojan
   server: 37.235.49.209
   port: 28099
@@ -2373,7 +2373,7 @@ proxies:
   tcp-fast-open: true
   servername: celestialcorset.crystalhamster.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #156'
+- name: 'Trojan #156'
   type: trojan
   server: 37.235.49.209
   port: 28099
@@ -2384,7 +2384,7 @@ proxies:
   tcp-fast-open: true
   servername: celestialcorset.crystalhamster.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #157'
+- name: 'Trojan #157'
   type: trojan
   server: 37.235.49.209
   port: 28099
@@ -2395,7 +2395,7 @@ proxies:
   tcp-fast-open: true
   servername: celestialcorset.crystalhamster.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #158'
+- name: 'Trojan #158'
   type: trojan
   server: 109.234.211.66
   port: 2087
@@ -2410,7 +2410,7 @@ proxies:
     path: /?BIA_TELEGRAM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)
     headers:
       Host: store.timimi.dpdns.org
-- name: 'T.ME: @aristapnel #159'
+- name: 'Trojan #159'
   type: trojan
   server: 80.173.231.254
   port: 12420
@@ -2421,7 +2421,7 @@ proxies:
   tcp-fast-open: true
   servername: www.semanticstaplegun.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #160'
+- name: 'Trojan #160'
   type: trojan
   server: 80.173.231.254
   port: 12420
@@ -2432,222 +2432,7 @@ proxies:
   tcp-fast-open: true
   servername: www.semanticstaplegun.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #161'
-  type: trojan
-  server: 35.181.213.186
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #162'
-  type: trojan
-  server: 18.195.254.156
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #163'
-  type: trojan
-  server: 35.157.86.22
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #164'
-  type: trojan
-  server: 167.17.70.117
-  port: 27234
-  password: kuGDUhAYqXnvIomV0Kdljfor
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: 167.17.70.117
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #165'
-  type: trojan
-  server: 13.37.184.19
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #166'
-  type: trojan
-  server: 35.156.94.149
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #167'
-  type: trojan
-  server: 13.39.244.211
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #168'
-  type: trojan
-  server: 15.188.233.114
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #169'
-  type: trojan
-  server: 3.65.47.214
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #170'
-  type: trojan
-  server: 37.27.249.93
-  port: 20000
-  password: 2AAF5UEsSd
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: 37.27.249.93
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #171'
-  type: trojan
-  server: 52.29.75.76
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #172'
-  type: trojan
-  server: 35.181.11.162
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #173'
-  type: trojan
-  server: 23.186.200.107
-  port: 11011
-  password: 898e1dca-14b2-4371-abc8-1b9f839bff6d
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: wus01.weyaf9sdoh2h.space
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #174'
-  type: trojan
-  server: 172.67.134.185
-  port: 443
-  password: POORIARED
-  network: ws
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: reDfRee8.REDFree8.ir
-  client-fingerprint: chrome
-  ws-opts:
-    path: /eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed
-    headers:
-      Host: reDfRee8.REDFree8.ir
-- name: 'T.ME: @aristapnel #175'
-  type: trojan
-  server: 52.29.75.76
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #176'
-  type: trojan
-  server: 13.37.184.19
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #177'
-  type: trojan
-  server: 172.238.229.254
-  port: 14051
-  password: OdgHycGphesfLmPMYolUF
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: api.avito.ru
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #178'
+- name: 'Trojan #161'
   type: trojan
   server: 35.181.35.59
   port: 22222
@@ -2660,87 +2445,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #179'
-  type: trojan
-  server: 13.38.166.241
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #180'
-  type: trojan
-  server: 35.157.86.22
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #181'
-  type: trojan
-  server: 35.181.35.59
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #182'
-  type: trojan
-  server: 13.38.166.241
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #183'
-  type: trojan
-  server: 3.120.230.145
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #184'
-  type: trojan
-  server: www.calmlunch.com
-  port: 443
-  password: humanity
-  network: ws
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: www.calmlunch.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #185'
+- name: 'Trojan #162'
   type: trojan
   server: 91.107.141.0
   port: 23825
@@ -2751,120 +2456,7 @@ proxies:
   tcp-fast-open: true
   servername: 91.107.141.0
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #186'
-  type: trojan
-  server: 172.64.152.23
-  port: 443
-  password: humanity
-  network: ws
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: www.gossipglove.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #187'
-  type: trojan
-  server: 23.186.200.108
-  port: 11012
-  password: 898e1dca-14b2-4371-abc8-1b9f839bff6d
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: wus02.weyaf9sdoh2h.space
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #188'
-  type: trojan
-  server: 18.195.254.156
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #189'
-  type: trojan
-  server: 58.152.110.40
-  port: 443
-  password: ea39fa94f1ee00999337ea1fd3318e69
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: www.nintendogames.net
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #190'
-  type: trojan
-  server: 52.58.227.219
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #191'
-  type: trojan
-  server: 88.99.184.17
-  port: 40450
-  password: KBgnXadFmC
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: 88.99.184.17
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #192'
-  type: trojan
-  server: 52.58.227.219
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #193'
-  type: trojan
-  server: 3.65.47.214
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #194'
-  type: trojan
-  server: 35.181.11.162
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #195'
+- name: 'Trojan #163'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -2879,9 +2471,46 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #196'
+- name: 'Trojan #164'
   type: trojan
-  server: 35.181.68.122
+  server: 167.17.70.117
+  port: 27234
+  password: kuGDUhAYqXnvIomV0Kdljfor
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: 167.17.70.117
+  client-fingerprint: chrome
+- name: 'Trojan #165'
+  type: trojan
+  server: 23.186.200.108
+  port: 11012
+  password: 898e1dca-14b2-4371-abc8-1b9f839bff6d
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: wus02.weyaf9sdoh2h.space
+  client-fingerprint: chrome
+- name: 'Trojan #166'
+  type: trojan
+  server: 172.64.152.23
+  port: 443
+  password: humanity
+  network: ws
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: www.gossipglove.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.gossipglove.com
+- name: 'Trojan #167'
+  type: trojan
+  server: 52.28.169.181
   port: 22223
   password: telegram-id-directvpn
   network: tcp
@@ -2892,7 +2521,31 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #197'
+- name: 'Trojan #168'
+  type: trojan
+  server: 13.39.219.34
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #169'
+  type: trojan
+  server: 172.238.229.254
+  port: 14051
+  password: OdgHycGphesfLmPMYolUF
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: api.avito.ru
+  client-fingerprint: chrome
+- name: 'Trojan #170'
   type: trojan
   server: 35.181.213.186
   port: 22223
@@ -2905,7 +2558,150 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #198'
+- name: 'Trojan #171'
+  type: trojan
+  server: 13.36.103.205
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #172'
+  type: trojan
+  server: 88.99.184.17
+  port: 40450
+  password: KBgnXadFmC
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: 88.99.184.17
+  client-fingerprint: chrome
+- name: 'Trojan #173'
+  type: trojan
+  server: 18.195.254.156
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #174'
+  type: trojan
+  server: 35.156.94.149
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #175'
+  type: trojan
+  server: 35.181.35.59
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #176'
+  type: trojan
+  server: 13.39.219.34
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #177'
+  type: trojan
+  server: 35.181.11.162
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #178'
+  type: trojan
+  server: 3.120.230.145
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #179'
+  type: trojan
+  server: www.calmlunch.com
+  port: 443
+  password: humanity
+  network: ws
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: www.calmlunch.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: 'Trojan #180'
+  type: trojan
+  server: 13.39.244.211
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #181'
+  type: trojan
+  server: 35.181.68.122
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #182'
   type: trojan
   server: chatgpt.com
   port: 443
@@ -2920,7 +2716,33 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #199'
+- name: 'Trojan #183'
+  type: trojan
+  server: 35.181.11.162
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #184'
+  type: trojan
+  server: 13.39.244.211
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #185'
   type: trojan
   server: 3.120.230.145
   port: 22222
@@ -2933,7 +2755,185 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #200'
+- name: 'Trojan #186'
+  type: trojan
+  server: 172.67.134.185
+  port: 443
+  password: POORIARED
+  network: ws
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: reDfRee8.REDFree8.ir
+  client-fingerprint: chrome
+  ws-opts:
+    path: /eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed
+    headers:
+      Host: reDfRee8.REDFree8.ir
+- name: 'Trojan #187'
+  type: trojan
+  server: 52.29.75.76
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #188'
+  type: trojan
+  server: 13.38.166.241
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #189'
+  type: trojan
+  server: 35.181.68.122
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #190'
+  type: trojan
+  server: 18.195.254.156
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #191'
+  type: trojan
+  server: 52.29.75.76
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #192'
+  type: trojan
+  server: 35.181.213.186
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #193'
+  type: trojan
+  server: 23.186.200.107
+  port: 11011
+  password: 898e1dca-14b2-4371-abc8-1b9f839bff6d
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: wus01.weyaf9sdoh2h.space
+  client-fingerprint: chrome
+- name: 'Trojan #194'
+  type: trojan
+  server: 37.27.249.93
+  port: 20000
+  password: 2AAF5UEsSd
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: 37.27.249.93
+  client-fingerprint: chrome
+- name: 'Trojan #195'
+  type: trojan
+  server: 13.36.103.205
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #196'
+  type: trojan
+  server: 13.38.166.241
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #197'
+  type: trojan
+  server: 58.152.110.40
+  port: 443
+  password: ea39fa94f1ee00999337ea1fd3318e69
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: www.nintendogames.net
+  client-fingerprint: chrome
+- name: 'Trojan #198'
+  type: trojan
+  server: 3.65.47.214
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #199'
+  type: trojan
+  server: 52.28.169.181
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #200'
   type: trojan
   server: 35.156.94.149
   port: 22222
@@ -2946,22 +2946,9 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #201'
+- name: 'Trojan #201'
   type: trojan
-  server: 15.188.233.114
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #202'
-  type: trojan
-  server: 13.39.244.211
+  server: 3.65.47.214
   port: 22222
   password: telegram-id-privatevpns
   network: tcp
@@ -2972,20 +2959,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #203'
-  type: trojan
-  server: 35.181.68.122
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #204'
+- name: 'Trojan #202'
   type: trojan
   server: 212.192.14.227
   port: 9443
@@ -2996,7 +2970,7 @@ proxies:
   tcp-fast-open: true
   servername: ya.ru
   client-fingerprint: random
-- name: 'T.ME: @aristapnel #205'
+- name: 'Trojan #203'
   type: trojan
   server: 172.64.147.211
   port: 2096
@@ -3011,7 +2985,7 @@ proxies:
     path: /Telegram🇨🇳WangCai2
     headers:
       Host: snippets.kkii.eu.org
-- name: 'T.ME: @aristapnel #206'
+- name: 'Trojan #204'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -3026,7 +3000,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #207'
+- name: 'Trojan #205'
   type: trojan
   server: 104.21.66.223
   port: 443
@@ -3037,7 +3011,7 @@ proxies:
   tcp-fast-open: true
   servername: jp2-july.88888802.xyz
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #208'
+- name: 'Trojan #206'
   type: trojan
   server: 104.17.97.5
   port: 2053
@@ -3048,7 +3022,7 @@ proxies:
   tcp-fast-open: true
   servername: 104.17.97.5
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #209'
+- name: 'Trojan #207'
   type: trojan
   server: cf.090227.xyz
   port: 443
@@ -3063,7 +3037,7 @@ proxies:
     path: /
     headers:
       Host: _acme-challenge.2go.cloudns.be
-- name: 'T.ME: @aristapnel #210'
+- name: 'Trojan #208'
   type: trojan
   server: 88.214.24.235
   port: 9443
@@ -3074,7 +3048,7 @@ proxies:
   tcp-fast-open: true
   servername: 88.214.24.235
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #211'
+- name: 'Trojan #209'
   type: trojan
   server: 167.17.70.117
   port: 27234
@@ -3085,7 +3059,7 @@ proxies:
   tcp-fast-open: true
   servername: 167.17.70.117
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #212'
+- name: 'Trojan #210'
   type: trojan
   server: 172.238.229.254
   port: 14051
@@ -3096,7 +3070,7 @@ proxies:
   tcp-fast-open: true
   servername: 172.238.229.254
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #213'
+- name: 'Trojan #211'
   type: trojan
   server: one.cf.cdn.hyli.xyz
   port: 443
@@ -3107,7 +3081,7 @@ proxies:
   tcp-fast-open: true
   servername: one.cf.cdn.hyli.xyz
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #214'
+- name: 'Trojan #212'
   type: trojan
   server: mfa.gov.ua
   port: 443
@@ -3118,7 +3092,7 @@ proxies:
   tcp-fast-open: true
   servername: mfa.gov.ua
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #215'
+- name: 'Trojan #213'
   type: trojan
   server: ip.sb
   port: 8443
@@ -3129,7 +3103,7 @@ proxies:
   tcp-fast-open: true
   servername: ip.sb
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #216'
+- name: 'Trojan #214'
   type: trojan
   server: 35.181.195.29
   port: 22222
@@ -3140,7 +3114,7 @@ proxies:
   tcp-fast-open: true
   servername: 35.181.195.29
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #217'
+- name: 'Trojan #215'
   type: trojan
   server: 88.214.24.235
   port: 9443
@@ -3151,7 +3125,7 @@ proxies:
   tcp-fast-open: true
   servername: apple.com
   client-fingerprint: random
-- name: 'T.ME: @aristapnel #218'
+- name: 'Trojan #216'
   type: trojan
   server: 66.245.193.152
   port: 17126
@@ -3162,7 +3136,7 @@ proxies:
   tcp-fast-open: true
   servername: ctaldikgfyw.uefahpgsyz.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #219'
+- name: 'Trojan #217'
   type: trojan
   server: 202.181.103.246
   port: 1334
@@ -3173,7 +3147,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #220'
+- name: 'Trojan #218'
   type: trojan
   server: 5.175.249.117
   port: 443
@@ -3184,7 +3158,7 @@ proxies:
   tcp-fast-open: true
   servername: google.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #221'
+- name: 'Trojan #219'
   type: trojan
   server: 172.67.134.185
   port: 443
@@ -3199,7 +3173,7 @@ proxies:
     path: /eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560
     headers:
       Host: reDfRee8.REDFree8.ir
-- name: 'T.ME: @aristapnel #222'
+- name: 'Trojan #220'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -3214,7 +3188,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #223'
+- name: 'Trojan #221'
   type: trojan
   server: 80.173.230.196
   port: 26279
@@ -3225,7 +3199,7 @@ proxies:
   tcp-fast-open: true
   servername: io.ozone.ru
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #224'
+- name: 'Trojan #222'
   type: trojan
   server: 212.193.18.144
   port: 36158
@@ -3236,7 +3210,7 @@ proxies:
   tcp-fast-open: true
   servername: ya.ru
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #225'
+- name: 'Trojan #223'
   type: trojan
   server: 80.173.231.254
   port: 12420
@@ -3247,7 +3221,7 @@ proxies:
   tcp-fast-open: true
   servername: www.semanticstaplegun.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #226'
+- name: 'Trojan #224'
   type: trojan
   server: 80.173.230.196
   port: 26279
@@ -3258,7 +3232,7 @@ proxies:
   tcp-fast-open: true
   servername: io.ozone.ru
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #227'
+- name: 'Trojan #225'
   type: trojan
   server: 37.235.49.209
   port: 28099
@@ -3269,7 +3243,7 @@ proxies:
   tcp-fast-open: true
   servername: celestialcorset.crystalhamster.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #228'
+- name: 'Trojan #226'
   type: trojan
   server: 212.193.18.144
   port: 36158
@@ -3280,7 +3254,7 @@ proxies:
   tcp-fast-open: true
   servername: api.avito.ru
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #229'
+- name: 'Trojan #227'
   type: trojan
   server: 80.173.230.196
   port: 26279
@@ -3291,7 +3265,7 @@ proxies:
   tcp-fast-open: true
   servername: 80.173.230.196
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #230'
+- name: 'Trojan #228'
   type: trojan
   server: 37.235.49.209
   port: 28099
@@ -3302,7 +3276,7 @@ proxies:
   tcp-fast-open: true
   servername: celestialcorset.crystalhamster.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #231'
+- name: 'Trojan #229'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -3317,7 +3291,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #232'
+- name: 'Trojan #230'
   type: trojan
   server: 58.152.53.227
   port: 443
@@ -3328,96 +3302,22 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #233'
+- name: 'Trojan #231'
   type: trojan
-  server: 5.34.222.4
-  port: 43642
-  password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3
-  network: tcp
+  server: hl-freedom-2.undef.network
+  port: 443
+  password: Tn2Bf0iRwJkJQgDk6gX6x81RB
+  network: ws
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: 5.34.222.4
+  servername: hl-freedom-2.undef.network
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #234'
-  type: trojan
-  server: 52.28.169.181
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #235'
-  type: trojan
-  server: 13.36.103.205
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #236'
-  type: trojan
-  server: 13.39.219.34
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #237'
-  type: trojan
-  server: 52.28.169.181
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #238'
-  type: trojan
-  server: 13.36.103.205
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #239'
-  type: trojan
-  server: 13.39.219.34
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #240'
+  ws-opts:
+    path: /f2fc2a1f
+    headers:
+      Host: hl-freedom-2.undef.network
+- name: 'Trojan #232'
   type: trojan
   server: 185.236.233.111
   port: 2053
@@ -3428,7 +3328,7 @@ proxies:
   tcp-fast-open: true
   servername: ftp.debian.org
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #241'
+- name: 'Trojan #233'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -3443,7 +3343,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #242'
+- name: 'Trojan #234'
   type: trojan
   server: 104.21.40.34
   port: 443
@@ -3458,7 +3358,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #243'
+- name: 'Trojan #235'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -3473,7 +3373,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #244'
+- name: 'Trojan #236'
   type: trojan
   server: 52.57.81.66
   port: 22222
@@ -3486,7 +3386,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #245'
+- name: 'Trojan #237'
   type: trojan
   server: 18.153.170.41
   port: 22222
@@ -3499,7 +3399,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #246'
+- name: 'Trojan #238'
   type: trojan
   server: 3.142.169.64
   port: 22222
@@ -3510,7 +3410,7 @@ proxies:
   tcp-fast-open: true
   servername: trojan.burgerip.co.uk
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #247'
+- name: 'Trojan #239'
   type: trojan
   server: 3.123.87.45
   port: 22222
@@ -3523,7 +3423,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #248'
+- name: 'Trojan #240'
   type: trojan
   server: 52.47.189.11
   port: 22222
@@ -3536,7 +3436,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #249'
+- name: 'Trojan #241'
   type: trojan
   server: artistic-cat.sheepdog670.boats
   port: 443
@@ -3547,7 +3447,7 @@ proxies:
   tcp-fast-open: true
   servername: artistic-cat.sheepdog670.boats
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #250'
+- name: 'Trojan #242'
   type: trojan
   server: careful-platypus.opossum872.cfd
   port: 443
@@ -3558,7 +3458,7 @@ proxies:
   tcp-fast-open: true
   servername: careful-platypus.opossum872.cfd
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #251'
+- name: 'Trojan #243'
   type: trojan
   server: naiu-us.05vr9nyqg5.download
   port: 13021
@@ -3569,7 +3469,7 @@ proxies:
   tcp-fast-open: true
   servername: cloudflare.node-ssl.cdn-alibaba.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #252'
+- name: 'Trojan #244'
   type: trojan
   server: 52.214.235.82
   port: 22222
@@ -3582,7 +3482,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #253'
+- name: 'Trojan #245'
   type: trojan
   server: 13.51.244.148
   port: 22222
@@ -3595,7 +3495,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #254'
+- name: 'Trojan #246'
   type: trojan
   server: 172.67.67.64
   port: 443
@@ -3610,7 +3510,7 @@ proxies:
     path: /juzigongyi
     headers:
       Host: 09jzus.zdzdzd.xyz
-- name: 'T.ME: @aristapnel #255'
+- name: 'Trojan #247'
   type: trojan
   server: 38.207.160.35
   port: 443
@@ -3621,7 +3521,7 @@ proxies:
   tcp-fast-open: true
   servername: www.bilibili.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #256'
+- name: 'Trojan #248'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev
   port: 8443
@@ -3636,7 +3536,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev
-- name: 'T.ME: @aristapnel #257'
+- name: 'Trojan #249'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev
   port: 2087
@@ -3651,7 +3551,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev
-- name: 'T.ME: @aristapnel #258'
+- name: 'Trojan #250'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev
   port: 2053
@@ -3666,7 +3566,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev
-- name: 'T.ME: @aristapnel #259'
+- name: 'Trojan #251'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev
   port: 2083
@@ -3681,7 +3581,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev
-- name: 'T.ME: @aristapnel #260'
+- name: 'Trojan #252'
   type: trojan
   server: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev
   port: 2096
@@ -3696,7 +3596,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev
-- name: 'T.ME: @aristapnel #261'
+- name: 'Trojan #253'
   type: trojan
   server: 127.0.0.1
   port: 4080
@@ -3707,7 +3607,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #262'
+- name: 'Trojan #254'
   type: trojan
   server: 188.116.22.217
   port: 2083
@@ -3718,7 +3618,7 @@ proxies:
   tcp-fast-open: true
   servername: xo.e0f.cx
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #263'
+- name: 'Trojan #255'
   type: trojan
   server: 188.116.22.217
   port: 2083
@@ -3729,7 +3629,7 @@ proxies:
   tcp-fast-open: true
   servername: xo.e0f.cx
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #264'
+- name: 'Trojan #256'
   type: trojan
   server: 104.16.223.200
   port: 443
@@ -3746,7 +3646,7 @@ proxies:
     path: /afrcloud4.mmv.kr/156.244.1.250:8443
     headers:
       Host: young-water-da76.shbanysrwsh.workers.dev
-- name: 'T.ME: @aristapnel #265'
+- name: 'Trojan #257'
   type: trojan
   server: 5.34.222.4
   port: 43642
@@ -3757,7 +3657,7 @@ proxies:
   tcp-fast-open: true
   servername: iepl.usq1.cat.bilibili.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #266'
+- name: 'Trojan #258'
   type: trojan
   server: artistic-cat.sheepdog670.boats
   port: 443
@@ -3768,7 +3668,7 @@ proxies:
   tcp-fast-open: true
   servername: artistic-cat.sheepdog670.boats
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #267'
+- name: 'Trojan #259'
   type: trojan
   server: 127.0.0.1
   port: 1080
@@ -3779,7 +3679,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #268'
+- name: 'Trojan #260'
   type: trojan
   server: ggbnh.7777198.xyz
   port: 443
@@ -3794,7 +3694,7 @@ proxies:
     path: /r862SIwqItkD5XgXAL
     headers:
       Host: GGbNH.7777198.xyZ
-- name: 'T.ME: @aristapnel #269'
+- name: 'Trojan #261'
   type: trojan
   server: m9o0.1xq.indevs.in
   port: 443
@@ -3809,7 +3709,7 @@ proxies:
     path: /y1moM5CyNvYMZlzsYHmsMrnO
     headers:
       Host: m9o0.1xq.indevs.in
-- name: 'T.ME: @aristapnel #270'
+- name: 'Trojan #262'
   type: trojan
   server: 127.0.0.1
   port: 2080
@@ -3820,7 +3720,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #271'
+- name: 'Trojan #263'
   type: trojan
   server: 141.193.213.107
   port: 443
@@ -3835,7 +3735,7 @@ proxies:
     path: /images
     headers:
       Host: yss2o9nzv7hsgw2z.sggogo202510.top
-- name: 'T.ME: @aristapnel #272'
+- name: 'Trojan #264'
   type: trojan
   server: 23.227.38.72
   port: 443
@@ -3850,7 +3750,7 @@ proxies:
     path: /images
     headers:
       Host: yss2o9nzv7hsgw2z.sggogo202510.top
-- name: 'T.ME: @aristapnel #273'
+- name: 'Trojan #265'
   type: trojan
   server: 666.cloudflare.182682.xyz
   port: 443
@@ -3865,7 +3765,7 @@ proxies:
     path: /images
     headers:
       Host: yss2o9nzv7hsgw2z.sggogo202510.top
-- name: 'T.ME: @aristapnel #274'
+- name: 'Trojan #266'
   type: trojan
   server: green2.cdntencentmusic.com
   port: 31101
@@ -3876,7 +3776,7 @@ proxies:
   tcp-fast-open: true
   servername: green2.cdntencentmusic.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #275'
+- name: 'Trojan #267'
   type: trojan
   server: hju.huangdi.eu.cc
   port: 443
@@ -3893,7 +3793,7 @@ proxies:
     path: /pdfbAl1zmvpSIH8OSONBms
     headers:
       Host: hju.huangdi.eu.cc
-- name: 'T.ME: @aristapnel #276'
+- name: 'Trojan #268'
   type: trojan
   server: gh.iran2028.indevs.in
   port: 443
@@ -3908,7 +3808,7 @@ proxies:
     path: /ElrtQ8CAz6RgfMaiN9LMya
     headers:
       Host: gh.iran2028.indevs.in
-- name: 'T.ME: @aristapnel #277'
+- name: 'Trojan #269'
   type: trojan
   server: ghj.husngahng.click
   port: 443
@@ -3923,7 +3823,7 @@ proxies:
     path: /ElrtQ8CAz6RgfMaiN9LMya
     headers:
       Host: ghj.husngahng.click
-- name: 'T.ME: @aristapnel #278'
+- name: 'Trojan #270'
   type: trojan
   server: hhjk.huangzi.cfd
   port: 443
@@ -3938,7 +3838,7 @@ proxies:
     path: /ElrtQ8CAz6RgfMaiN9LMya
     headers:
       Host: hhjk.huangzi.cfd
-- name: 'T.ME: @aristapnel #279'
+- name: 'Trojan #271'
   type: trojan
   server: mmkj.dddc.de5.net
   port: 443
@@ -3953,7 +3853,7 @@ proxies:
     path: /ElrtQ8CAz6RgfMaiN9LMya
     headers:
       Host: mmkj.dddc.de5.net
-- name: 'T.ME: @aristapnel #280'
+- name: 'Trojan #272'
   type: trojan
   server: 27.122.59.45
   port: 443
@@ -3964,7 +3864,7 @@ proxies:
   tcp-fast-open: true
   servername: 45.32.28.232
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #281'
+- name: 'Trojan #273'
   type: trojan
   server: 61.228.69.38
   port: 3462
@@ -3975,7 +3875,7 @@ proxies:
   tcp-fast-open: true
   servername: 45.32.28.232
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #282'
+- name: 'Trojan #274'
   type: trojan
   server: 148.251.173.125
   port: 16512
@@ -3986,7 +3886,7 @@ proxies:
   tcp-fast-open: true
   servername: 148.251.173.125
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #283'
+- name: 'Trojan #275'
   type: trojan
   server: 52.195.170.6
   port: 491
@@ -3997,7 +3897,7 @@ proxies:
   tcp-fast-open: true
   servername: www.nintendogames.net
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #284'
+- name: 'Trojan #276'
   type: trojan
   server: 127.0.0.1
   port: 2080
@@ -4008,7 +3908,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #285'
+- name: 'Trojan #277'
   type: trojan
   server: 58.152.26.173
   port: 443
@@ -4019,7 +3919,7 @@ proxies:
   tcp-fast-open: true
   servername: 58.152.26.173
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #286'
+- name: 'Trojan #278'
   type: trojan
   server: 172.67.134.185
   port: 443
@@ -4034,7 +3934,7 @@ proxies:
     path: /eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed
     headers:
       Host: reDfRee8.REDFree8.ir
-- name: 'T.ME: @aristapnel #287'
+- name: 'Trojan #279'
   type: trojan
   server: chatgpt.com
   port: 8443
@@ -4049,7 +3949,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #288'
+- name: 'Trojan #280'
   type: trojan
   server: v1.dabache.top
   port: 8443
@@ -4064,7 +3964,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #289'
+- name: 'Trojan #281'
   type: trojan
   server: v1.dabache.top
   port: 8443
@@ -4079,7 +3979,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #290'
+- name: 'Trojan #282'
   type: trojan
   server: v1.dabache.top
   port: 8443
@@ -4094,7 +3994,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #291'
+- name: 'Trojan #283'
   type: trojan
   server: v1.dabache.top
   port: 8443
@@ -4109,7 +4009,7 @@ proxies:
     path: /amd
     headers:
       Host: sweden.vmaxpanel.com
-- name: 'T.ME: @aristapnel #292'
+- name: 'Trojan #284'
   type: trojan
   server: finland.silenceux.ir
   port: 2087
@@ -4124,7 +4024,7 @@ proxies:
     path: /Telegram-@ATLAS_V2VPN/?ed=2570
     headers:
       Host: dbssxrx3df6f.contigolibre.com
-- name: 'T.ME: @aristapnel #293'
+- name: 'Trojan #285'
   type: trojan
   server: 127.0.0.1
   port: 1080
@@ -4135,7 +4035,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #294'
+- name: 'Trojan #286'
   type: trojan
   server: 127.0.0.1
   port: 4080
@@ -4146,7 +4046,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #295'
+- name: 'Trojan #287'
   type: trojan
   server: green2.cdntencentmusic.com
   port: 31103
@@ -4157,7 +4057,7 @@ proxies:
   tcp-fast-open: true
   servername: green2.cdntencentmusic.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #296'
+- name: 'Trojan #288'
   type: trojan
   server: 130.162.197.41
   port: 21051
@@ -4168,7 +4068,7 @@ proxies:
   tcp-fast-open: true
   servername: nobitex.ir
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #297'
+- name: 'Trojan #289'
   type: trojan
   server: 127.0.0.1
   port: 4080
@@ -4179,7 +4079,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #298'
+- name: 'Trojan #290'
   type: trojan
   server: 127.0.0.1
   port: 4080
@@ -4190,7 +4090,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #299'
+- name: 'Trojan #291'
   type: trojan
   server: yxxoxomchoyk.eu-central-1.clawcloudrun.com
   port: 49147
@@ -4201,7 +4101,7 @@ proxies:
   tcp-fast-open: true
   servername: play.google.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #300'
+- name: 'Trojan #292'
   type: trojan
   server: finland.silenceux.ir
   port: 2087
@@ -4216,7 +4116,7 @@ proxies:
     path: /Tell-@FF_crony/?ed=2990
     headers:
       Host: uscbbg2a40e7.zozothedog.com
-- name: 'T.ME: @aristapnel #301'
+- name: 'Trojan #293'
   type: trojan
   server: 127.0.0.1
   port: 4080
@@ -4227,7 +4127,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #302'
+- name: 'Trojan #294'
   type: trojan
   server: cdnfire.xiaomispeed.com
   port: 21102
@@ -4238,7 +4138,7 @@ proxies:
   tcp-fast-open: true
   servername: cdnfire.xiaomispeed.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #303'
+- name: 'Trojan #295'
   type: trojan
   server: cdnfire.xiaomispeed.com
   port: 23301
@@ -4249,7 +4149,7 @@ proxies:
   tcp-fast-open: true
   servername: cdnfire.xiaomispeed.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #304'
+- name: 'Trojan #296'
   type: trojan
   server: iiiiii9.huangshang.us.ci
   port: 443
@@ -4266,7 +4166,7 @@ proxies:
     path: /tSROScnWofV7ia41dH
     headers:
       Host: iiiiiI9.hUANgShaNG.uS.Ci
-- name: 'T.ME: @aristapnel #305'
+- name: 'Trojan #297'
   type: trojan
   server: 127.0.0.1
   port: 2080
@@ -4277,7 +4177,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #306'
+- name: 'Trojan #298'
   type: trojan
   server: 104.18.11.110
   port: 443
@@ -4292,7 +4192,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #307'
+- name: 'Trojan #299'
   type: trojan
   server: 104.18.11.110
   port: 443
@@ -4307,7 +4207,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #308'
+- name: 'Trojan #300'
   type: trojan
   server: 104.18.32.37
   port: 443
@@ -4322,7 +4222,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #309'
+- name: 'Trojan #301'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -4337,7 +4237,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #310'
+- name: 'Trojan #302'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -4352,7 +4252,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #311'
+- name: 'Trojan #303'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -4367,7 +4267,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #312'
+- name: 'Trojan #304'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -4382,7 +4282,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #313'
+- name: 'Trojan #305'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -4397,7 +4297,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #314'
+- name: 'Trojan #306'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -4412,7 +4312,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #315'
+- name: 'Trojan #307'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -4427,7 +4327,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #316'
+- name: 'Trojan #308'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -4442,7 +4342,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #317'
+- name: 'Trojan #309'
   type: trojan
   server: 104.18.32.47
   port: 443
@@ -4457,7 +4357,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #318'
+- name: 'Trojan #310'
   type: trojan
   server: 104.21.40.34
   port: 443
@@ -4472,7 +4372,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #319'
+- name: 'Trojan #311'
   type: trojan
   server: 104.21.40.34
   port: 443
@@ -4487,7 +4387,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #320'
+- name: 'Trojan #312'
   type: trojan
   server: 104.21.40.34
   port: 443
@@ -4502,7 +4402,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #321'
+- name: 'Trojan #313'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4517,7 +4417,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #322'
+- name: 'Trojan #314'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4532,7 +4432,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #323'
+- name: 'Trojan #315'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4547,7 +4447,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #324'
+- name: 'Trojan #316'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4562,7 +4462,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #325'
+- name: 'Trojan #317'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4577,7 +4477,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #326'
+- name: 'Trojan #318'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4592,7 +4492,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #327'
+- name: 'Trojan #319'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4607,7 +4507,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #328'
+- name: 'Trojan #320'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4622,7 +4522,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #329'
+- name: 'Trojan #321'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4637,7 +4537,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #330'
+- name: 'Trojan #322'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4652,7 +4552,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #331'
+- name: 'Trojan #323'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4667,7 +4567,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #332'
+- name: 'Trojan #324'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4682,7 +4582,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #333'
+- name: 'Trojan #325'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4697,7 +4597,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #334'
+- name: 'Trojan #326'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4712,7 +4612,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #335'
+- name: 'Trojan #327'
   type: trojan
   server: 172.64.152.23
   port: 443
@@ -4727,7 +4627,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #336'
+- name: 'Trojan #328'
   type: trojan
   server: 172.64.155.209
   port: 443
@@ -4742,7 +4642,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #337'
+- name: 'Trojan #329'
   type: trojan
   server: 172.64.155.209
   port: 443
@@ -4757,7 +4657,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #338'
+- name: 'Trojan #330'
   type: trojan
   server: 172.67.180.92
   port: 443
@@ -4772,7 +4672,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #339'
+- name: 'Trojan #331'
   type: trojan
   server: 172.67.180.92
   port: 443
@@ -4787,7 +4687,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #340'
+- name: 'Trojan #332'
   type: trojan
   server: 185.18.250.252
   port: 443
@@ -4802,7 +4702,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #341'
+- name: 'Trojan #333'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -4817,7 +4717,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #342'
+- name: 'Trojan #334'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -4832,7 +4732,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #343'
+- name: 'Trojan #335'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -4847,7 +4747,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #344'
+- name: 'Trojan #336'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -4862,7 +4762,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #345'
+- name: 'Trojan #337'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -4877,7 +4777,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #346'
+- name: 'Trojan #338'
   type: trojan
   server: 188.114.96.3
   port: 443
@@ -4892,7 +4792,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #347'
+- name: 'Trojan #339'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -4907,7 +4807,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #348'
+- name: 'Trojan #340'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -4922,7 +4822,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #349'
+- name: 'Trojan #341'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -4937,7 +4837,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #350'
+- name: 'Trojan #342'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -4952,7 +4852,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #351'
+- name: 'Trojan #343'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -4967,7 +4867,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #352'
+- name: 'Trojan #344'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -4982,7 +4882,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #353'
+- name: 'Trojan #345'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -4997,7 +4897,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #354'
+- name: 'Trojan #346'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -5012,22 +4912,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #355'
-  type: trojan
-  server: 188.114.98.0
-  port: 443
-  password: humanity
-  network: ws
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: www.multiplydose.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #356'
+- name: 'Trojan #347'
   type: trojan
   server: 188.114.98.0
   port: 443
@@ -5042,7 +4927,22 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #357'
+- name: 'Trojan #348'
+  type: trojan
+  server: 188.114.98.0
+  port: 443
+  password: humanity
+  network: ws
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: www.multiplydose.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.multiplydose.com
+- name: 'Trojan #349'
   type: trojan
   server: chatgpt.com
   port: 443
@@ -5057,7 +4957,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #358'
+- name: 'Trojan #350'
   type: trojan
   server: chatgpt.com
   port: 443
@@ -5072,7 +4972,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #359'
+- name: 'Trojan #351'
   type: trojan
   server: chatgpt.com
   port: 443
@@ -5087,7 +4987,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #360'
+- name: 'Trojan #352'
   type: trojan
   server: v1.dabache.top
   port: 443
@@ -5098,7 +4998,7 @@ proxies:
   tcp-fast-open: true
   servername: www.multiplydose.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #361'
+- name: 'Trojan #353'
   type: trojan
   server: www.calmlunch.com
   port: 443
@@ -5113,7 +5013,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #362'
+- name: 'Trojan #354'
   type: trojan
   server: www.creationlong.org
   port: 443
@@ -5131,7 +5031,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.creationlong.org
-- name: 'T.ME: @aristapnel #363'
+- name: 'Trojan #355'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -5146,7 +5046,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #364'
+- name: 'Trojan #356'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -5161,7 +5061,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #365'
+- name: 'Trojan #357'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -5176,7 +5076,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #366'
+- name: 'Trojan #358'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -5191,7 +5091,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #367'
+- name: 'Trojan #359'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -5206,7 +5106,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #368'
+- name: 'Trojan #360'
   type: trojan
   server: www.gossipglove.com
   port: 443
@@ -5221,7 +5121,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #369'
+- name: 'Trojan #361'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -5236,7 +5136,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #370'
+- name: 'Trojan #362'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -5251,7 +5151,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #371'
+- name: 'Trojan #363'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -5266,7 +5166,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #372'
+- name: 'Trojan #364'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -5281,7 +5181,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #373'
+- name: 'Trojan #365'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -5296,7 +5196,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #374'
+- name: 'Trojan #366'
   type: trojan
   server: www.multiplydose.com
   port: 443
@@ -5311,7 +5211,7 @@ proxies:
     path: /assignment
     headers:
       Host: www.multiplydose.com
-- name: 'T.ME: @aristapnel #375'
+- name: 'Trojan #367'
   type: trojan
   server: 127.0.0.1
   port: 1080
@@ -5322,7 +5222,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #376'
+- name: 'Trojan #368'
   type: trojan
   server: 205.185.115.223
   port: 19258
@@ -5335,7 +5235,7 @@ proxies:
   client-fingerprint: chrome
   grpc-opts:
     grpc-service-name: GunService
-- name: 'T.ME: @aristapnel #377'
+- name: 'Trojan #369'
   type: trojan
   server: 47.245.156.110
   port: 36659
@@ -5346,7 +5246,7 @@ proxies:
   tcp-fast-open: true
   servername: play.google.com
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #378'
+- name: 'Trojan #370'
   type: trojan
   server: 127.0.0.1
   port: 1080
@@ -5357,7 +5257,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #379'
+- name: 'Trojan #371'
   type: trojan
   server: 172.64.149.99
   port: 8443
@@ -5374,7 +5274,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net
-- name: 'T.ME: @aristapnel #380'
+- name: 'Trojan #372'
   type: trojan
   server: 127.0.0.1
   port: 4080
@@ -5385,7 +5285,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #381'
+- name: 'Trojan #373'
   type: trojan
   server: 127.0.0.1
   port: 4080
@@ -5396,7 +5296,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #382'
+- name: 'Trojan #374'
   type: trojan
   server: 127.0.0.1
   port: 4080
@@ -5407,7 +5307,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #383'
+- name: 'Trojan #375'
   type: trojan
   server: 127.0.0.1
   port: 2080
@@ -5418,7 +5318,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #384'
+- name: 'Trojan #376'
   type: trojan
   server: www.visa.com
   port: 8443
@@ -5435,7 +5335,7 @@ proxies:
     path: /?ed=2560
     headers:
       Host: b0iepi8ffi9cjrl73wld5gri3f5rvb9.zjde5.de5.net
-- name: 'T.ME: @aristapnel #385'
+- name: 'Trojan #377'
   type: trojan
   server: 127.0.0.1
   port: 2080
@@ -5446,7 +5346,20 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #386'
+- name: 'Trojan #378'
+  type: trojan
+  server: 13.37.184.19
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #379'
   type: trojan
   server: 13.39.244.211
   port: 22223
@@ -5459,7 +5372,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #387'
+- name: 'Trojan #380'
   type: trojan
   server: 35.181.35.59
   port: 22223
@@ -5472,7 +5385,33 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #388'
+- name: 'Trojan #381'
+  type: trojan
+  server: 52.58.227.219
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #382'
+  type: trojan
+  server: 13.37.184.19
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #383'
   type: trojan
   server: 3.120.252.86
   port: 22222
@@ -5483,7 +5422,7 @@ proxies:
   tcp-fast-open: true
   servername: trojan.burgerip.co.uk
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #389'
+- name: 'Trojan #384'
   type: trojan
   server: 3.75.51.127
   port: 22222
@@ -5496,7 +5435,7 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #390'
+- name: 'Trojan #385'
   type: trojan
   server: 35.181.35.59
   port: 22222
@@ -5509,7 +5448,20 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #391'
+- name: 'Trojan #386'
+  type: trojan
+  server: 52.58.227.219
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'Trojan #387'
   type: trojan
   server: ip.sb
   port: 8443
@@ -5520,7 +5472,7 @@ proxies:
   tcp-fast-open: true
   servername: ip.sb
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #392'
+- name: 'Trojan #388'
   type: trojan
   server: 127.0.0.1
   port: 2080
@@ -5531,7 +5483,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #393'
+- name: 'Trojan #389'
   type: trojan
   server: 127.0.0.1
   port: 1080
@@ -5542,7 +5494,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #394'
+- name: 'Trojan #390'
   type: trojan
   server: 80.173.231.254
   port: 12420
@@ -5553,7 +5505,7 @@ proxies:
   tcp-fast-open: true
   servername: www.semanticstaplegun.click
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #395'
+- name: 'Trojan #391'
   type: trojan
   server: 127.0.0.1
   port: 1080
@@ -5564,7 +5516,7 @@ proxies:
   tcp-fast-open: true
   servername: 127.0.0.1
   client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #396'
+- name: 'Trojan #392'
   type: trojan
   server: 194.150.166.151
   port: 52047
@@ -5577,7 +5529,7 @@ proxies:
   client-fingerprint: chrome
   grpc-opts:
     grpc-service-name: GunService
-- name: 'T.ME: @aristapnel #397'
+- name: 'Trojan #393'
   type: trojan
   server: 194.150.166.151
   port: 52047
@@ -5595,804 +5547,796 @@ proxy-groups:
   type: select
   proxies:
   - Auto Select
-  - 'T.ME: @aristapnel #1'
-  - 'T.ME: @aristapnel #2'
-  - 'T.ME: @aristapnel #3'
-  - 'T.ME: @aristapnel #4'
-  - 'T.ME: @aristapnel #5'
-  - 'T.ME: @aristapnel #6'
-  - 'T.ME: @aristapnel #7'
-  - 'T.ME: @aristapnel #8'
-  - 'T.ME: @aristapnel #9'
-  - 'T.ME: @aristapnel #10'
-  - 'T.ME: @aristapnel #11'
-  - 'T.ME: @aristapnel #12'
-  - 'T.ME: @aristapnel #13'
-  - 'T.ME: @aristapnel #14'
-  - 'T.ME: @aristapnel #15'
-  - 'T.ME: @aristapnel #16'
-  - 'T.ME: @aristapnel #17'
-  - 'T.ME: @aristapnel #18'
-  - 'T.ME: @aristapnel #19'
-  - 'T.ME: @aristapnel #20'
-  - 'T.ME: @aristapnel #21'
-  - 'T.ME: @aristapnel #22'
-  - 'T.ME: @aristapnel #23'
-  - 'T.ME: @aristapnel #24'
-  - 'T.ME: @aristapnel #25'
-  - 'T.ME: @aristapnel #26'
-  - 'T.ME: @aristapnel #27'
-  - 'T.ME: @aristapnel #28'
-  - 'T.ME: @aristapnel #29'
-  - 'T.ME: @aristapnel #30'
-  - 'T.ME: @aristapnel #31'
-  - 'T.ME: @aristapnel #32'
-  - 'T.ME: @aristapnel #33'
-  - 'T.ME: @aristapnel #34'
-  - 'T.ME: @aristapnel #35'
-  - 'T.ME: @aristapnel #36'
-  - 'T.ME: @aristapnel #37'
-  - 'T.ME: @aristapnel #38'
-  - 'T.ME: @aristapnel #39'
-  - 'T.ME: @aristapnel #40'
-  - 'T.ME: @aristapnel #41'
-  - 'T.ME: @aristapnel #42'
-  - 'T.ME: @aristapnel #43'
-  - 'T.ME: @aristapnel #44'
-  - 'T.ME: @aristapnel #45'
-  - 'T.ME: @aristapnel #46'
-  - 'T.ME: @aristapnel #47'
-  - 'T.ME: @aristapnel #48'
-  - 'T.ME: @aristapnel #49'
-  - 'T.ME: @aristapnel #50'
-  - 'T.ME: @aristapnel #51'
-  - 'T.ME: @aristapnel #52'
-  - 'T.ME: @aristapnel #53'
-  - 'T.ME: @aristapnel #54'
-  - 'T.ME: @aristapnel #55'
-  - 'T.ME: @aristapnel #56'
-  - 'T.ME: @aristapnel #57'
-  - 'T.ME: @aristapnel #58'
-  - 'T.ME: @aristapnel #59'
-  - 'T.ME: @aristapnel #60'
-  - 'T.ME: @aristapnel #61'
-  - 'T.ME: @aristapnel #62'
-  - 'T.ME: @aristapnel #63'
-  - 'T.ME: @aristapnel #64'
-  - 'T.ME: @aristapnel #65'
-  - 'T.ME: @aristapnel #66'
-  - 'T.ME: @aristapnel #67'
-  - 'T.ME: @aristapnel #68'
-  - 'T.ME: @aristapnel #69'
-  - 'T.ME: @aristapnel #70'
-  - 'T.ME: @aristapnel #71'
-  - 'T.ME: @aristapnel #72'
-  - 'T.ME: @aristapnel #73'
-  - 'T.ME: @aristapnel #74'
-  - 'T.ME: @aristapnel #75'
-  - 'T.ME: @aristapnel #76'
-  - 'T.ME: @aristapnel #77'
-  - 'T.ME: @aristapnel #78'
-  - 'T.ME: @aristapnel #79'
-  - 'T.ME: @aristapnel #80'
-  - 'T.ME: @aristapnel #81'
-  - 'T.ME: @aristapnel #82'
-  - 'T.ME: @aristapnel #83'
-  - 'T.ME: @aristapnel #84'
-  - 'T.ME: @aristapnel #85'
-  - 'T.ME: @aristapnel #86'
-  - 'T.ME: @aristapnel #87'
-  - 'T.ME: @aristapnel #88'
-  - 'T.ME: @aristapnel #89'
-  - 'T.ME: @aristapnel #90'
-  - 'T.ME: @aristapnel #91'
-  - 'T.ME: @aristapnel #92'
-  - 'T.ME: @aristapnel #93'
-  - 'T.ME: @aristapnel #94'
-  - 'T.ME: @aristapnel #95'
-  - 'T.ME: @aristapnel #96'
-  - 'T.ME: @aristapnel #97'
-  - 'T.ME: @aristapnel #98'
-  - 'T.ME: @aristapnel #99'
-  - 'T.ME: @aristapnel #100'
-  - 'T.ME: @aristapnel #101'
-  - 'T.ME: @aristapnel #102'
-  - 'T.ME: @aristapnel #103'
-  - 'T.ME: @aristapnel #104'
-  - 'T.ME: @aristapnel #105'
-  - 'T.ME: @aristapnel #106'
-  - 'T.ME: @aristapnel #107'
-  - 'T.ME: @aristapnel #108'
-  - 'T.ME: @aristapnel #109'
-  - 'T.ME: @aristapnel #110'
-  - 'T.ME: @aristapnel #111'
-  - 'T.ME: @aristapnel #112'
-  - 'T.ME: @aristapnel #113'
-  - 'T.ME: @aristapnel #114'
-  - 'T.ME: @aristapnel #115'
-  - 'T.ME: @aristapnel #116'
-  - 'T.ME: @aristapnel #117'
-  - 'T.ME: @aristapnel #118'
-  - 'T.ME: @aristapnel #119'
-  - 'T.ME: @aristapnel #120'
-  - 'T.ME: @aristapnel #121'
-  - 'T.ME: @aristapnel #122'
-  - 'T.ME: @aristapnel #123'
-  - 'T.ME: @aristapnel #124'
-  - 'T.ME: @aristapnel #125'
-  - 'T.ME: @aristapnel #126'
-  - 'T.ME: @aristapnel #127'
-  - 'T.ME: @aristapnel #128'
-  - 'T.ME: @aristapnel #129'
-  - 'T.ME: @aristapnel #130'
-  - 'T.ME: @aristapnel #131'
-  - 'T.ME: @aristapnel #132'
-  - 'T.ME: @aristapnel #133'
-  - 'T.ME: @aristapnel #134'
-  - 'T.ME: @aristapnel #135'
-  - 'T.ME: @aristapnel #136'
-  - 'T.ME: @aristapnel #137'
-  - 'T.ME: @aristapnel #138'
-  - 'T.ME: @aristapnel #139'
-  - 'T.ME: @aristapnel #140'
-  - 'T.ME: @aristapnel #141'
-  - 'T.ME: @aristapnel #142'
-  - 'T.ME: @aristapnel #143'
-  - 'T.ME: @aristapnel #144'
-  - 'T.ME: @aristapnel #145'
-  - 'T.ME: @aristapnel #146'
-  - 'T.ME: @aristapnel #147'
-  - 'T.ME: @aristapnel #148'
-  - 'T.ME: @aristapnel #149'
-  - 'T.ME: @aristapnel #150'
-  - 'T.ME: @aristapnel #151'
-  - 'T.ME: @aristapnel #152'
-  - 'T.ME: @aristapnel #153'
-  - 'T.ME: @aristapnel #154'
-  - 'T.ME: @aristapnel #155'
-  - 'T.ME: @aristapnel #156'
-  - 'T.ME: @aristapnel #157'
-  - 'T.ME: @aristapnel #158'
-  - 'T.ME: @aristapnel #159'
-  - 'T.ME: @aristapnel #160'
-  - 'T.ME: @aristapnel #161'
-  - 'T.ME: @aristapnel #162'
-  - 'T.ME: @aristapnel #163'
-  - 'T.ME: @aristapnel #164'
-  - 'T.ME: @aristapnel #165'
-  - 'T.ME: @aristapnel #166'
-  - 'T.ME: @aristapnel #167'
-  - 'T.ME: @aristapnel #168'
-  - 'T.ME: @aristapnel #169'
-  - 'T.ME: @aristapnel #170'
-  - 'T.ME: @aristapnel #171'
-  - 'T.ME: @aristapnel #172'
-  - 'T.ME: @aristapnel #173'
-  - 'T.ME: @aristapnel #174'
-  - 'T.ME: @aristapnel #175'
-  - 'T.ME: @aristapnel #176'
-  - 'T.ME: @aristapnel #177'
-  - 'T.ME: @aristapnel #178'
-  - 'T.ME: @aristapnel #179'
-  - 'T.ME: @aristapnel #180'
-  - 'T.ME: @aristapnel #181'
-  - 'T.ME: @aristapnel #182'
-  - 'T.ME: @aristapnel #183'
-  - 'T.ME: @aristapnel #184'
-  - 'T.ME: @aristapnel #185'
-  - 'T.ME: @aristapnel #186'
-  - 'T.ME: @aristapnel #187'
-  - 'T.ME: @aristapnel #188'
-  - 'T.ME: @aristapnel #189'
-  - 'T.ME: @aristapnel #190'
-  - 'T.ME: @aristapnel #191'
-  - 'T.ME: @aristapnel #192'
-  - 'T.ME: @aristapnel #193'
-  - 'T.ME: @aristapnel #194'
-  - 'T.ME: @aristapnel #195'
-  - 'T.ME: @aristapnel #196'
-  - 'T.ME: @aristapnel #197'
-  - 'T.ME: @aristapnel #198'
-  - 'T.ME: @aristapnel #199'
-  - 'T.ME: @aristapnel #200'
-  - 'T.ME: @aristapnel #201'
-  - 'T.ME: @aristapnel #202'
-  - 'T.ME: @aristapnel #203'
-  - 'T.ME: @aristapnel #204'
-  - 'T.ME: @aristapnel #205'
-  - 'T.ME: @aristapnel #206'
-  - 'T.ME: @aristapnel #207'
-  - 'T.ME: @aristapnel #208'
-  - 'T.ME: @aristapnel #209'
-  - 'T.ME: @aristapnel #210'
-  - 'T.ME: @aristapnel #211'
-  - 'T.ME: @aristapnel #212'
-  - 'T.ME: @aristapnel #213'
-  - 'T.ME: @aristapnel #214'
-  - 'T.ME: @aristapnel #215'
-  - 'T.ME: @aristapnel #216'
-  - 'T.ME: @aristapnel #217'
-  - 'T.ME: @aristapnel #218'
-  - 'T.ME: @aristapnel #219'
-  - 'T.ME: @aristapnel #220'
-  - 'T.ME: @aristapnel #221'
-  - 'T.ME: @aristapnel #222'
-  - 'T.ME: @aristapnel #223'
-  - 'T.ME: @aristapnel #224'
-  - 'T.ME: @aristapnel #225'
-  - 'T.ME: @aristapnel #226'
-  - 'T.ME: @aristapnel #227'
-  - 'T.ME: @aristapnel #228'
-  - 'T.ME: @aristapnel #229'
-  - 'T.ME: @aristapnel #230'
-  - 'T.ME: @aristapnel #231'
-  - 'T.ME: @aristapnel #232'
-  - 'T.ME: @aristapnel #233'
-  - 'T.ME: @aristapnel #234'
-  - 'T.ME: @aristapnel #235'
-  - 'T.ME: @aristapnel #236'
-  - 'T.ME: @aristapnel #237'
-  - 'T.ME: @aristapnel #238'
-  - 'T.ME: @aristapnel #239'
-  - 'T.ME: @aristapnel #240'
-  - 'T.ME: @aristapnel #241'
-  - 'T.ME: @aristapnel #242'
-  - 'T.ME: @aristapnel #243'
-  - 'T.ME: @aristapnel #244'
-  - 'T.ME: @aristapnel #245'
-  - 'T.ME: @aristapnel #246'
-  - 'T.ME: @aristapnel #247'
-  - 'T.ME: @aristapnel #248'
-  - 'T.ME: @aristapnel #249'
-  - 'T.ME: @aristapnel #250'
-  - 'T.ME: @aristapnel #251'
-  - 'T.ME: @aristapnel #252'
-  - 'T.ME: @aristapnel #253'
-  - 'T.ME: @aristapnel #254'
-  - 'T.ME: @aristapnel #255'
-  - 'T.ME: @aristapnel #256'
-  - 'T.ME: @aristapnel #257'
-  - 'T.ME: @aristapnel #258'
-  - 'T.ME: @aristapnel #259'
-  - 'T.ME: @aristapnel #260'
-  - 'T.ME: @aristapnel #261'
-  - 'T.ME: @aristapnel #262'
-  - 'T.ME: @aristapnel #263'
-  - 'T.ME: @aristapnel #264'
-  - 'T.ME: @aristapnel #265'
-  - 'T.ME: @aristapnel #266'
-  - 'T.ME: @aristapnel #267'
-  - 'T.ME: @aristapnel #268'
-  - 'T.ME: @aristapnel #269'
-  - 'T.ME: @aristapnel #270'
-  - 'T.ME: @aristapnel #271'
-  - 'T.ME: @aristapnel #272'
-  - 'T.ME: @aristapnel #273'
-  - 'T.ME: @aristapnel #274'
-  - 'T.ME: @aristapnel #275'
-  - 'T.ME: @aristapnel #276'
-  - 'T.ME: @aristapnel #277'
-  - 'T.ME: @aristapnel #278'
-  - 'T.ME: @aristapnel #279'
-  - 'T.ME: @aristapnel #280'
-  - 'T.ME: @aristapnel #281'
-  - 'T.ME: @aristapnel #282'
-  - 'T.ME: @aristapnel #283'
-  - 'T.ME: @aristapnel #284'
-  - 'T.ME: @aristapnel #285'
-  - 'T.ME: @aristapnel #286'
-  - 'T.ME: @aristapnel #287'
-  - 'T.ME: @aristapnel #288'
-  - 'T.ME: @aristapnel #289'
-  - 'T.ME: @aristapnel #290'
-  - 'T.ME: @aristapnel #291'
-  - 'T.ME: @aristapnel #292'
-  - 'T.ME: @aristapnel #293'
-  - 'T.ME: @aristapnel #294'
-  - 'T.ME: @aristapnel #295'
-  - 'T.ME: @aristapnel #296'
-  - 'T.ME: @aristapnel #297'
-  - 'T.ME: @aristapnel #298'
-  - 'T.ME: @aristapnel #299'
-  - 'T.ME: @aristapnel #300'
-  - 'T.ME: @aristapnel #301'
-  - 'T.ME: @aristapnel #302'
-  - 'T.ME: @aristapnel #303'
-  - 'T.ME: @aristapnel #304'
-  - 'T.ME: @aristapnel #305'
-  - 'T.ME: @aristapnel #306'
-  - 'T.ME: @aristapnel #307'
-  - 'T.ME: @aristapnel #308'
-  - 'T.ME: @aristapnel #309'
-  - 'T.ME: @aristapnel #310'
-  - 'T.ME: @aristapnel #311'
-  - 'T.ME: @aristapnel #312'
-  - 'T.ME: @aristapnel #313'
-  - 'T.ME: @aristapnel #314'
-  - 'T.ME: @aristapnel #315'
-  - 'T.ME: @aristapnel #316'
-  - 'T.ME: @aristapnel #317'
-  - 'T.ME: @aristapnel #318'
-  - 'T.ME: @aristapnel #319'
-  - 'T.ME: @aristapnel #320'
-  - 'T.ME: @aristapnel #321'
-  - 'T.ME: @aristapnel #322'
-  - 'T.ME: @aristapnel #323'
-  - 'T.ME: @aristapnel #324'
-  - 'T.ME: @aristapnel #325'
-  - 'T.ME: @aristapnel #326'
-  - 'T.ME: @aristapnel #327'
-  - 'T.ME: @aristapnel #328'
-  - 'T.ME: @aristapnel #329'
-  - 'T.ME: @aristapnel #330'
-  - 'T.ME: @aristapnel #331'
-  - 'T.ME: @aristapnel #332'
-  - 'T.ME: @aristapnel #333'
-  - 'T.ME: @aristapnel #334'
-  - 'T.ME: @aristapnel #335'
-  - 'T.ME: @aristapnel #336'
-  - 'T.ME: @aristapnel #337'
-  - 'T.ME: @aristapnel #338'
-  - 'T.ME: @aristapnel #339'
-  - 'T.ME: @aristapnel #340'
-  - 'T.ME: @aristapnel #341'
-  - 'T.ME: @aristapnel #342'
-  - 'T.ME: @aristapnel #343'
-  - 'T.ME: @aristapnel #344'
-  - 'T.ME: @aristapnel #345'
-  - 'T.ME: @aristapnel #346'
-  - 'T.ME: @aristapnel #347'
-  - 'T.ME: @aristapnel #348'
-  - 'T.ME: @aristapnel #349'
-  - 'T.ME: @aristapnel #350'
-  - 'T.ME: @aristapnel #351'
-  - 'T.ME: @aristapnel #352'
-  - 'T.ME: @aristapnel #353'
-  - 'T.ME: @aristapnel #354'
-  - 'T.ME: @aristapnel #355'
-  - 'T.ME: @aristapnel #356'
-  - 'T.ME: @aristapnel #357'
-  - 'T.ME: @aristapnel #358'
-  - 'T.ME: @aristapnel #359'
-  - 'T.ME: @aristapnel #360'
-  - 'T.ME: @aristapnel #361'
-  - 'T.ME: @aristapnel #362'
-  - 'T.ME: @aristapnel #363'
-  - 'T.ME: @aristapnel #364'
-  - 'T.ME: @aristapnel #365'
-  - 'T.ME: @aristapnel #366'
-  - 'T.ME: @aristapnel #367'
-  - 'T.ME: @aristapnel #368'
-  - 'T.ME: @aristapnel #369'
-  - 'T.ME: @aristapnel #370'
-  - 'T.ME: @aristapnel #371'
-  - 'T.ME: @aristapnel #372'
-  - 'T.ME: @aristapnel #373'
-  - 'T.ME: @aristapnel #374'
-  - 'T.ME: @aristapnel #375'
-  - 'T.ME: @aristapnel #376'
-  - 'T.ME: @aristapnel #377'
-  - 'T.ME: @aristapnel #378'
-  - 'T.ME: @aristapnel #379'
-  - 'T.ME: @aristapnel #380'
-  - 'T.ME: @aristapnel #381'
-  - 'T.ME: @aristapnel #382'
-  - 'T.ME: @aristapnel #383'
-  - 'T.ME: @aristapnel #384'
-  - 'T.ME: @aristapnel #385'
-  - 'T.ME: @aristapnel #386'
-  - 'T.ME: @aristapnel #387'
-  - 'T.ME: @aristapnel #388'
-  - 'T.ME: @aristapnel #389'
-  - 'T.ME: @aristapnel #390'
-  - 'T.ME: @aristapnel #391'
-  - 'T.ME: @aristapnel #392'
-  - 'T.ME: @aristapnel #393'
-  - 'T.ME: @aristapnel #394'
-  - 'T.ME: @aristapnel #395'
-  - 'T.ME: @aristapnel #396'
-  - 'T.ME: @aristapnel #397'
+  - 'Trojan #1'
+  - 'Trojan #2'
+  - 'Trojan #3'
+  - 'Trojan #4'
+  - 'Trojan #5'
+  - 'Trojan #6'
+  - 'Trojan #7'
+  - 'Trojan #8'
+  - 'Trojan #9'
+  - 'Trojan #10'
+  - 'Trojan #11'
+  - 'Trojan #12'
+  - 'Trojan #13'
+  - 'Trojan #14'
+  - 'Trojan #15'
+  - 'Trojan #16'
+  - 'Trojan #17'
+  - 'Trojan #18'
+  - 'Trojan #19'
+  - 'Trojan #20'
+  - 'Trojan #21'
+  - 'Trojan #22'
+  - 'Trojan #23'
+  - 'Trojan #24'
+  - 'Trojan #25'
+  - 'Trojan #26'
+  - 'Trojan #27'
+  - 'Trojan #28'
+  - 'Trojan #29'
+  - 'Trojan #30'
+  - 'Trojan #31'
+  - 'Trojan #32'
+  - 'Trojan #33'
+  - 'Trojan #34'
+  - 'Trojan #35'
+  - 'Trojan #36'
+  - 'Trojan #37'
+  - 'Trojan #38'
+  - 'Trojan #39'
+  - 'Trojan #40'
+  - 'Trojan #41'
+  - 'Trojan #42'
+  - 'Trojan #43'
+  - 'Trojan #44'
+  - 'Trojan #45'
+  - 'Trojan #46'
+  - 'Trojan #47'
+  - 'Trojan #48'
+  - 'Trojan #49'
+  - 'Trojan #50'
+  - 'Trojan #51'
+  - 'Trojan #52'
+  - 'Trojan #53'
+  - 'Trojan #54'
+  - 'Trojan #55'
+  - 'Trojan #56'
+  - 'Trojan #57'
+  - 'Trojan #58'
+  - 'Trojan #59'
+  - 'Trojan #60'
+  - 'Trojan #61'
+  - 'Trojan #62'
+  - 'Trojan #63'
+  - 'Trojan #64'
+  - 'Trojan #65'
+  - 'Trojan #66'
+  - 'Trojan #67'
+  - 'Trojan #68'
+  - 'Trojan #69'
+  - 'Trojan #70'
+  - 'Trojan #71'
+  - 'Trojan #72'
+  - 'Trojan #73'
+  - 'Trojan #74'
+  - 'Trojan #75'
+  - 'Trojan #76'
+  - 'Trojan #77'
+  - 'Trojan #78'
+  - 'Trojan #79'
+  - 'Trojan #80'
+  - 'Trojan #81'
+  - 'Trojan #82'
+  - 'Trojan #83'
+  - 'Trojan #84'
+  - 'Trojan #85'
+  - 'Trojan #86'
+  - 'Trojan #87'
+  - 'Trojan #88'
+  - 'Trojan #89'
+  - 'Trojan #90'
+  - 'Trojan #91'
+  - 'Trojan #92'
+  - 'Trojan #93'
+  - 'Trojan #94'
+  - 'Trojan #95'
+  - 'Trojan #96'
+  - 'Trojan #97'
+  - 'Trojan #98'
+  - 'Trojan #99'
+  - 'Trojan #100'
+  - 'Trojan #101'
+  - 'Trojan #102'
+  - 'Trojan #103'
+  - 'Trojan #104'
+  - 'Trojan #105'
+  - 'Trojan #106'
+  - 'Trojan #107'
+  - 'Trojan #108'
+  - 'Trojan #109'
+  - 'Trojan #110'
+  - 'Trojan #111'
+  - 'Trojan #112'
+  - 'Trojan #113'
+  - 'Trojan #114'
+  - 'Trojan #115'
+  - 'Trojan #116'
+  - 'Trojan #117'
+  - 'Trojan #118'
+  - 'Trojan #119'
+  - 'Trojan #120'
+  - 'Trojan #121'
+  - 'Trojan #122'
+  - 'Trojan #123'
+  - 'Trojan #124'
+  - 'Trojan #125'
+  - 'Trojan #126'
+  - 'Trojan #127'
+  - 'Trojan #128'
+  - 'Trojan #129'
+  - 'Trojan #130'
+  - 'Trojan #131'
+  - 'Trojan #132'
+  - 'Trojan #133'
+  - 'Trojan #134'
+  - 'Trojan #135'
+  - 'Trojan #136'
+  - 'Trojan #137'
+  - 'Trojan #138'
+  - 'Trojan #139'
+  - 'Trojan #140'
+  - 'Trojan #141'
+  - 'Trojan #142'
+  - 'Trojan #143'
+  - 'Trojan #144'
+  - 'Trojan #145'
+  - 'Trojan #146'
+  - 'Trojan #147'
+  - 'Trojan #148'
+  - 'Trojan #149'
+  - 'Trojan #150'
+  - 'Trojan #151'
+  - 'Trojan #152'
+  - 'Trojan #153'
+  - 'Trojan #154'
+  - 'Trojan #155'
+  - 'Trojan #156'
+  - 'Trojan #157'
+  - 'Trojan #158'
+  - 'Trojan #159'
+  - 'Trojan #160'
+  - 'Trojan #161'
+  - 'Trojan #162'
+  - 'Trojan #163'
+  - 'Trojan #164'
+  - 'Trojan #165'
+  - 'Trojan #166'
+  - 'Trojan #167'
+  - 'Trojan #168'
+  - 'Trojan #169'
+  - 'Trojan #170'
+  - 'Trojan #171'
+  - 'Trojan #172'
+  - 'Trojan #173'
+  - 'Trojan #174'
+  - 'Trojan #175'
+  - 'Trojan #176'
+  - 'Trojan #177'
+  - 'Trojan #178'
+  - 'Trojan #179'
+  - 'Trojan #180'
+  - 'Trojan #181'
+  - 'Trojan #182'
+  - 'Trojan #183'
+  - 'Trojan #184'
+  - 'Trojan #185'
+  - 'Trojan #186'
+  - 'Trojan #187'
+  - 'Trojan #188'
+  - 'Trojan #189'
+  - 'Trojan #190'
+  - 'Trojan #191'
+  - 'Trojan #192'
+  - 'Trojan #193'
+  - 'Trojan #194'
+  - 'Trojan #195'
+  - 'Trojan #196'
+  - 'Trojan #197'
+  - 'Trojan #198'
+  - 'Trojan #199'
+  - 'Trojan #200'
+  - 'Trojan #201'
+  - 'Trojan #202'
+  - 'Trojan #203'
+  - 'Trojan #204'
+  - 'Trojan #205'
+  - 'Trojan #206'
+  - 'Trojan #207'
+  - 'Trojan #208'
+  - 'Trojan #209'
+  - 'Trojan #210'
+  - 'Trojan #211'
+  - 'Trojan #212'
+  - 'Trojan #213'
+  - 'Trojan #214'
+  - 'Trojan #215'
+  - 'Trojan #216'
+  - 'Trojan #217'
+  - 'Trojan #218'
+  - 'Trojan #219'
+  - 'Trojan #220'
+  - 'Trojan #221'
+  - 'Trojan #222'
+  - 'Trojan #223'
+  - 'Trojan #224'
+  - 'Trojan #225'
+  - 'Trojan #226'
+  - 'Trojan #227'
+  - 'Trojan #228'
+  - 'Trojan #229'
+  - 'Trojan #230'
+  - 'Trojan #231'
+  - 'Trojan #232'
+  - 'Trojan #233'
+  - 'Trojan #234'
+  - 'Trojan #235'
+  - 'Trojan #236'
+  - 'Trojan #237'
+  - 'Trojan #238'
+  - 'Trojan #239'
+  - 'Trojan #240'
+  - 'Trojan #241'
+  - 'Trojan #242'
+  - 'Trojan #243'
+  - 'Trojan #244'
+  - 'Trojan #245'
+  - 'Trojan #246'
+  - 'Trojan #247'
+  - 'Trojan #248'
+  - 'Trojan #249'
+  - 'Trojan #250'
+  - 'Trojan #251'
+  - 'Trojan #252'
+  - 'Trojan #253'
+  - 'Trojan #254'
+  - 'Trojan #255'
+  - 'Trojan #256'
+  - 'Trojan #257'
+  - 'Trojan #258'
+  - 'Trojan #259'
+  - 'Trojan #260'
+  - 'Trojan #261'
+  - 'Trojan #262'
+  - 'Trojan #263'
+  - 'Trojan #264'
+  - 'Trojan #265'
+  - 'Trojan #266'
+  - 'Trojan #267'
+  - 'Trojan #268'
+  - 'Trojan #269'
+  - 'Trojan #270'
+  - 'Trojan #271'
+  - 'Trojan #272'
+  - 'Trojan #273'
+  - 'Trojan #274'
+  - 'Trojan #275'
+  - 'Trojan #276'
+  - 'Trojan #277'
+  - 'Trojan #278'
+  - 'Trojan #279'
+  - 'Trojan #280'
+  - 'Trojan #281'
+  - 'Trojan #282'
+  - 'Trojan #283'
+  - 'Trojan #284'
+  - 'Trojan #285'
+  - 'Trojan #286'
+  - 'Trojan #287'
+  - 'Trojan #288'
+  - 'Trojan #289'
+  - 'Trojan #290'
+  - 'Trojan #291'
+  - 'Trojan #292'
+  - 'Trojan #293'
+  - 'Trojan #294'
+  - 'Trojan #295'
+  - 'Trojan #296'
+  - 'Trojan #297'
+  - 'Trojan #298'
+  - 'Trojan #299'
+  - 'Trojan #300'
+  - 'Trojan #301'
+  - 'Trojan #302'
+  - 'Trojan #303'
+  - 'Trojan #304'
+  - 'Trojan #305'
+  - 'Trojan #306'
+  - 'Trojan #307'
+  - 'Trojan #308'
+  - 'Trojan #309'
+  - 'Trojan #310'
+  - 'Trojan #311'
+  - 'Trojan #312'
+  - 'Trojan #313'
+  - 'Trojan #314'
+  - 'Trojan #315'
+  - 'Trojan #316'
+  - 'Trojan #317'
+  - 'Trojan #318'
+  - 'Trojan #319'
+  - 'Trojan #320'
+  - 'Trojan #321'
+  - 'Trojan #322'
+  - 'Trojan #323'
+  - 'Trojan #324'
+  - 'Trojan #325'
+  - 'Trojan #326'
+  - 'Trojan #327'
+  - 'Trojan #328'
+  - 'Trojan #329'
+  - 'Trojan #330'
+  - 'Trojan #331'
+  - 'Trojan #332'
+  - 'Trojan #333'
+  - 'Trojan #334'
+  - 'Trojan #335'
+  - 'Trojan #336'
+  - 'Trojan #337'
+  - 'Trojan #338'
+  - 'Trojan #339'
+  - 'Trojan #340'
+  - 'Trojan #341'
+  - 'Trojan #342'
+  - 'Trojan #343'
+  - 'Trojan #344'
+  - 'Trojan #345'
+  - 'Trojan #346'
+  - 'Trojan #347'
+  - 'Trojan #348'
+  - 'Trojan #349'
+  - 'Trojan #350'
+  - 'Trojan #351'
+  - 'Trojan #352'
+  - 'Trojan #353'
+  - 'Trojan #354'
+  - 'Trojan #355'
+  - 'Trojan #356'
+  - 'Trojan #357'
+  - 'Trojan #358'
+  - 'Trojan #359'
+  - 'Trojan #360'
+  - 'Trojan #361'
+  - 'Trojan #362'
+  - 'Trojan #363'
+  - 'Trojan #364'
+  - 'Trojan #365'
+  - 'Trojan #366'
+  - 'Trojan #367'
+  - 'Trojan #368'
+  - 'Trojan #369'
+  - 'Trojan #370'
+  - 'Trojan #371'
+  - 'Trojan #372'
+  - 'Trojan #373'
+  - 'Trojan #374'
+  - 'Trojan #375'
+  - 'Trojan #376'
+  - 'Trojan #377'
+  - 'Trojan #378'
+  - 'Trojan #379'
+  - 'Trojan #380'
+  - 'Trojan #381'
+  - 'Trojan #382'
+  - 'Trojan #383'
+  - 'Trojan #384'
+  - 'Trojan #385'
+  - 'Trojan #386'
+  - 'Trojan #387'
+  - 'Trojan #388'
+  - 'Trojan #389'
+  - 'Trojan #390'
+  - 'Trojan #391'
+  - 'Trojan #392'
+  - 'Trojan #393'
   - DIRECT
 - name: Auto Select
   type: url-test
   proxies:
-  - 'T.ME: @aristapnel #1'
-  - 'T.ME: @aristapnel #2'
-  - 'T.ME: @aristapnel #3'
-  - 'T.ME: @aristapnel #4'
-  - 'T.ME: @aristapnel #5'
-  - 'T.ME: @aristapnel #6'
-  - 'T.ME: @aristapnel #7'
-  - 'T.ME: @aristapnel #8'
-  - 'T.ME: @aristapnel #9'
-  - 'T.ME: @aristapnel #10'
-  - 'T.ME: @aristapnel #11'
-  - 'T.ME: @aristapnel #12'
-  - 'T.ME: @aristapnel #13'
-  - 'T.ME: @aristapnel #14'
-  - 'T.ME: @aristapnel #15'
-  - 'T.ME: @aristapnel #16'
-  - 'T.ME: @aristapnel #17'
-  - 'T.ME: @aristapnel #18'
-  - 'T.ME: @aristapnel #19'
-  - 'T.ME: @aristapnel #20'
-  - 'T.ME: @aristapnel #21'
-  - 'T.ME: @aristapnel #22'
-  - 'T.ME: @aristapnel #23'
-  - 'T.ME: @aristapnel #24'
-  - 'T.ME: @aristapnel #25'
-  - 'T.ME: @aristapnel #26'
-  - 'T.ME: @aristapnel #27'
-  - 'T.ME: @aristapnel #28'
-  - 'T.ME: @aristapnel #29'
-  - 'T.ME: @aristapnel #30'
-  - 'T.ME: @aristapnel #31'
-  - 'T.ME: @aristapnel #32'
-  - 'T.ME: @aristapnel #33'
-  - 'T.ME: @aristapnel #34'
-  - 'T.ME: @aristapnel #35'
-  - 'T.ME: @aristapnel #36'
-  - 'T.ME: @aristapnel #37'
-  - 'T.ME: @aristapnel #38'
-  - 'T.ME: @aristapnel #39'
-  - 'T.ME: @aristapnel #40'
-  - 'T.ME: @aristapnel #41'
-  - 'T.ME: @aristapnel #42'
-  - 'T.ME: @aristapnel #43'
-  - 'T.ME: @aristapnel #44'
-  - 'T.ME: @aristapnel #45'
-  - 'T.ME: @aristapnel #46'
-  - 'T.ME: @aristapnel #47'
-  - 'T.ME: @aristapnel #48'
-  - 'T.ME: @aristapnel #49'
-  - 'T.ME: @aristapnel #50'
-  - 'T.ME: @aristapnel #51'
-  - 'T.ME: @aristapnel #52'
-  - 'T.ME: @aristapnel #53'
-  - 'T.ME: @aristapnel #54'
-  - 'T.ME: @aristapnel #55'
-  - 'T.ME: @aristapnel #56'
-  - 'T.ME: @aristapnel #57'
-  - 'T.ME: @aristapnel #58'
-  - 'T.ME: @aristapnel #59'
-  - 'T.ME: @aristapnel #60'
-  - 'T.ME: @aristapnel #61'
-  - 'T.ME: @aristapnel #62'
-  - 'T.ME: @aristapnel #63'
-  - 'T.ME: @aristapnel #64'
-  - 'T.ME: @aristapnel #65'
-  - 'T.ME: @aristapnel #66'
-  - 'T.ME: @aristapnel #67'
-  - 'T.ME: @aristapnel #68'
-  - 'T.ME: @aristapnel #69'
-  - 'T.ME: @aristapnel #70'
-  - 'T.ME: @aristapnel #71'
-  - 'T.ME: @aristapnel #72'
-  - 'T.ME: @aristapnel #73'
-  - 'T.ME: @aristapnel #74'
-  - 'T.ME: @aristapnel #75'
-  - 'T.ME: @aristapnel #76'
-  - 'T.ME: @aristapnel #77'
-  - 'T.ME: @aristapnel #78'
-  - 'T.ME: @aristapnel #79'
-  - 'T.ME: @aristapnel #80'
-  - 'T.ME: @aristapnel #81'
-  - 'T.ME: @aristapnel #82'
-  - 'T.ME: @aristapnel #83'
-  - 'T.ME: @aristapnel #84'
-  - 'T.ME: @aristapnel #85'
-  - 'T.ME: @aristapnel #86'
-  - 'T.ME: @aristapnel #87'
-  - 'T.ME: @aristapnel #88'
-  - 'T.ME: @aristapnel #89'
-  - 'T.ME: @aristapnel #90'
-  - 'T.ME: @aristapnel #91'
-  - 'T.ME: @aristapnel #92'
-  - 'T.ME: @aristapnel #93'
-  - 'T.ME: @aristapnel #94'
-  - 'T.ME: @aristapnel #95'
-  - 'T.ME: @aristapnel #96'
-  - 'T.ME: @aristapnel #97'
-  - 'T.ME: @aristapnel #98'
-  - 'T.ME: @aristapnel #99'
-  - 'T.ME: @aristapnel #100'
-  - 'T.ME: @aristapnel #101'
-  - 'T.ME: @aristapnel #102'
-  - 'T.ME: @aristapnel #103'
-  - 'T.ME: @aristapnel #104'
-  - 'T.ME: @aristapnel #105'
-  - 'T.ME: @aristapnel #106'
-  - 'T.ME: @aristapnel #107'
-  - 'T.ME: @aristapnel #108'
-  - 'T.ME: @aristapnel #109'
-  - 'T.ME: @aristapnel #110'
-  - 'T.ME: @aristapnel #111'
-  - 'T.ME: @aristapnel #112'
-  - 'T.ME: @aristapnel #113'
-  - 'T.ME: @aristapnel #114'
-  - 'T.ME: @aristapnel #115'
-  - 'T.ME: @aristapnel #116'
-  - 'T.ME: @aristapnel #117'
-  - 'T.ME: @aristapnel #118'
-  - 'T.ME: @aristapnel #119'
-  - 'T.ME: @aristapnel #120'
-  - 'T.ME: @aristapnel #121'
-  - 'T.ME: @aristapnel #122'
-  - 'T.ME: @aristapnel #123'
-  - 'T.ME: @aristapnel #124'
-  - 'T.ME: @aristapnel #125'
-  - 'T.ME: @aristapnel #126'
-  - 'T.ME: @aristapnel #127'
-  - 'T.ME: @aristapnel #128'
-  - 'T.ME: @aristapnel #129'
-  - 'T.ME: @aristapnel #130'
-  - 'T.ME: @aristapnel #131'
-  - 'T.ME: @aristapnel #132'
-  - 'T.ME: @aristapnel #133'
-  - 'T.ME: @aristapnel #134'
-  - 'T.ME: @aristapnel #135'
-  - 'T.ME: @aristapnel #136'
-  - 'T.ME: @aristapnel #137'
-  - 'T.ME: @aristapnel #138'
-  - 'T.ME: @aristapnel #139'
-  - 'T.ME: @aristapnel #140'
-  - 'T.ME: @aristapnel #141'
-  - 'T.ME: @aristapnel #142'
-  - 'T.ME: @aristapnel #143'
-  - 'T.ME: @aristapnel #144'
-  - 'T.ME: @aristapnel #145'
-  - 'T.ME: @aristapnel #146'
-  - 'T.ME: @aristapnel #147'
-  - 'T.ME: @aristapnel #148'
-  - 'T.ME: @aristapnel #149'
-  - 'T.ME: @aristapnel #150'
-  - 'T.ME: @aristapnel #151'
-  - 'T.ME: @aristapnel #152'
-  - 'T.ME: @aristapnel #153'
-  - 'T.ME: @aristapnel #154'
-  - 'T.ME: @aristapnel #155'
-  - 'T.ME: @aristapnel #156'
-  - 'T.ME: @aristapnel #157'
-  - 'T.ME: @aristapnel #158'
-  - 'T.ME: @aristapnel #159'
-  - 'T.ME: @aristapnel #160'
-  - 'T.ME: @aristapnel #161'
-  - 'T.ME: @aristapnel #162'
-  - 'T.ME: @aristapnel #163'
-  - 'T.ME: @aristapnel #164'
-  - 'T.ME: @aristapnel #165'
-  - 'T.ME: @aristapnel #166'
-  - 'T.ME: @aristapnel #167'
-  - 'T.ME: @aristapnel #168'
-  - 'T.ME: @aristapnel #169'
-  - 'T.ME: @aristapnel #170'
-  - 'T.ME: @aristapnel #171'
-  - 'T.ME: @aristapnel #172'
-  - 'T.ME: @aristapnel #173'
-  - 'T.ME: @aristapnel #174'
-  - 'T.ME: @aristapnel #175'
-  - 'T.ME: @aristapnel #176'
-  - 'T.ME: @aristapnel #177'
-  - 'T.ME: @aristapnel #178'
-  - 'T.ME: @aristapnel #179'
-  - 'T.ME: @aristapnel #180'
-  - 'T.ME: @aristapnel #181'
-  - 'T.ME: @aristapnel #182'
-  - 'T.ME: @aristapnel #183'
-  - 'T.ME: @aristapnel #184'
-  - 'T.ME: @aristapnel #185'
-  - 'T.ME: @aristapnel #186'
-  - 'T.ME: @aristapnel #187'
-  - 'T.ME: @aristapnel #188'
-  - 'T.ME: @aristapnel #189'
-  - 'T.ME: @aristapnel #190'
-  - 'T.ME: @aristapnel #191'
-  - 'T.ME: @aristapnel #192'
-  - 'T.ME: @aristapnel #193'
-  - 'T.ME: @aristapnel #194'
-  - 'T.ME: @aristapnel #195'
-  - 'T.ME: @aristapnel #196'
-  - 'T.ME: @aristapnel #197'
-  - 'T.ME: @aristapnel #198'
-  - 'T.ME: @aristapnel #199'
-  - 'T.ME: @aristapnel #200'
-  - 'T.ME: @aristapnel #201'
-  - 'T.ME: @aristapnel #202'
-  - 'T.ME: @aristapnel #203'
-  - 'T.ME: @aristapnel #204'
-  - 'T.ME: @aristapnel #205'
-  - 'T.ME: @aristapnel #206'
-  - 'T.ME: @aristapnel #207'
-  - 'T.ME: @aristapnel #208'
-  - 'T.ME: @aristapnel #209'
-  - 'T.ME: @aristapnel #210'
-  - 'T.ME: @aristapnel #211'
-  - 'T.ME: @aristapnel #212'
-  - 'T.ME: @aristapnel #213'
-  - 'T.ME: @aristapnel #214'
-  - 'T.ME: @aristapnel #215'
-  - 'T.ME: @aristapnel #216'
-  - 'T.ME: @aristapnel #217'
-  - 'T.ME: @aristapnel #218'
-  - 'T.ME: @aristapnel #219'
-  - 'T.ME: @aristapnel #220'
-  - 'T.ME: @aristapnel #221'
-  - 'T.ME: @aristapnel #222'
-  - 'T.ME: @aristapnel #223'
-  - 'T.ME: @aristapnel #224'
-  - 'T.ME: @aristapnel #225'
-  - 'T.ME: @aristapnel #226'
-  - 'T.ME: @aristapnel #227'
-  - 'T.ME: @aristapnel #228'
-  - 'T.ME: @aristapnel #229'
-  - 'T.ME: @aristapnel #230'
-  - 'T.ME: @aristapnel #231'
-  - 'T.ME: @aristapnel #232'
-  - 'T.ME: @aristapnel #233'
-  - 'T.ME: @aristapnel #234'
-  - 'T.ME: @aristapnel #235'
-  - 'T.ME: @aristapnel #236'
-  - 'T.ME: @aristapnel #237'
-  - 'T.ME: @aristapnel #238'
-  - 'T.ME: @aristapnel #239'
-  - 'T.ME: @aristapnel #240'
-  - 'T.ME: @aristapnel #241'
-  - 'T.ME: @aristapnel #242'
-  - 'T.ME: @aristapnel #243'
-  - 'T.ME: @aristapnel #244'
-  - 'T.ME: @aristapnel #245'
-  - 'T.ME: @aristapnel #246'
-  - 'T.ME: @aristapnel #247'
-  - 'T.ME: @aristapnel #248'
-  - 'T.ME: @aristapnel #249'
-  - 'T.ME: @aristapnel #250'
-  - 'T.ME: @aristapnel #251'
-  - 'T.ME: @aristapnel #252'
-  - 'T.ME: @aristapnel #253'
-  - 'T.ME: @aristapnel #254'
-  - 'T.ME: @aristapnel #255'
-  - 'T.ME: @aristapnel #256'
-  - 'T.ME: @aristapnel #257'
-  - 'T.ME: @aristapnel #258'
-  - 'T.ME: @aristapnel #259'
-  - 'T.ME: @aristapnel #260'
-  - 'T.ME: @aristapnel #261'
-  - 'T.ME: @aristapnel #262'
-  - 'T.ME: @aristapnel #263'
-  - 'T.ME: @aristapnel #264'
-  - 'T.ME: @aristapnel #265'
-  - 'T.ME: @aristapnel #266'
-  - 'T.ME: @aristapnel #267'
-  - 'T.ME: @aristapnel #268'
-  - 'T.ME: @aristapnel #269'
-  - 'T.ME: @aristapnel #270'
-  - 'T.ME: @aristapnel #271'
-  - 'T.ME: @aristapnel #272'
-  - 'T.ME: @aristapnel #273'
-  - 'T.ME: @aristapnel #274'
-  - 'T.ME: @aristapnel #275'
-  - 'T.ME: @aristapnel #276'
-  - 'T.ME: @aristapnel #277'
-  - 'T.ME: @aristapnel #278'
-  - 'T.ME: @aristapnel #279'
-  - 'T.ME: @aristapnel #280'
-  - 'T.ME: @aristapnel #281'
-  - 'T.ME: @aristapnel #282'
-  - 'T.ME: @aristapnel #283'
-  - 'T.ME: @aristapnel #284'
-  - 'T.ME: @aristapnel #285'
-  - 'T.ME: @aristapnel #286'
-  - 'T.ME: @aristapnel #287'
-  - 'T.ME: @aristapnel #288'
-  - 'T.ME: @aristapnel #289'
-  - 'T.ME: @aristapnel #290'
-  - 'T.ME: @aristapnel #291'
-  - 'T.ME: @aristapnel #292'
-  - 'T.ME: @aristapnel #293'
-  - 'T.ME: @aristapnel #294'
-  - 'T.ME: @aristapnel #295'
-  - 'T.ME: @aristapnel #296'
-  - 'T.ME: @aristapnel #297'
-  - 'T.ME: @aristapnel #298'
-  - 'T.ME: @aristapnel #299'
-  - 'T.ME: @aristapnel #300'
-  - 'T.ME: @aristapnel #301'
-  - 'T.ME: @aristapnel #302'
-  - 'T.ME: @aristapnel #303'
-  - 'T.ME: @aristapnel #304'
-  - 'T.ME: @aristapnel #305'
-  - 'T.ME: @aristapnel #306'
-  - 'T.ME: @aristapnel #307'
-  - 'T.ME: @aristapnel #308'
-  - 'T.ME: @aristapnel #309'
-  - 'T.ME: @aristapnel #310'
-  - 'T.ME: @aristapnel #311'
-  - 'T.ME: @aristapnel #312'
-  - 'T.ME: @aristapnel #313'
-  - 'T.ME: @aristapnel #314'
-  - 'T.ME: @aristapnel #315'
-  - 'T.ME: @aristapnel #316'
-  - 'T.ME: @aristapnel #317'
-  - 'T.ME: @aristapnel #318'
-  - 'T.ME: @aristapnel #319'
-  - 'T.ME: @aristapnel #320'
-  - 'T.ME: @aristapnel #321'
-  - 'T.ME: @aristapnel #322'
-  - 'T.ME: @aristapnel #323'
-  - 'T.ME: @aristapnel #324'
-  - 'T.ME: @aristapnel #325'
-  - 'T.ME: @aristapnel #326'
-  - 'T.ME: @aristapnel #327'
-  - 'T.ME: @aristapnel #328'
-  - 'T.ME: @aristapnel #329'
-  - 'T.ME: @aristapnel #330'
-  - 'T.ME: @aristapnel #331'
-  - 'T.ME: @aristapnel #332'
-  - 'T.ME: @aristapnel #333'
-  - 'T.ME: @aristapnel #334'
-  - 'T.ME: @aristapnel #335'
-  - 'T.ME: @aristapnel #336'
-  - 'T.ME: @aristapnel #337'
-  - 'T.ME: @aristapnel #338'
-  - 'T.ME: @aristapnel #339'
-  - 'T.ME: @aristapnel #340'
-  - 'T.ME: @aristapnel #341'
-  - 'T.ME: @aristapnel #342'
-  - 'T.ME: @aristapnel #343'
-  - 'T.ME: @aristapnel #344'
-  - 'T.ME: @aristapnel #345'
-  - 'T.ME: @aristapnel #346'
-  - 'T.ME: @aristapnel #347'
-  - 'T.ME: @aristapnel #348'
-  - 'T.ME: @aristapnel #349'
-  - 'T.ME: @aristapnel #350'
-  - 'T.ME: @aristapnel #351'
-  - 'T.ME: @aristapnel #352'
-  - 'T.ME: @aristapnel #353'
-  - 'T.ME: @aristapnel #354'
-  - 'T.ME: @aristapnel #355'
-  - 'T.ME: @aristapnel #356'
-  - 'T.ME: @aristapnel #357'
-  - 'T.ME: @aristapnel #358'
-  - 'T.ME: @aristapnel #359'
-  - 'T.ME: @aristapnel #360'
-  - 'T.ME: @aristapnel #361'
-  - 'T.ME: @aristapnel #362'
-  - 'T.ME: @aristapnel #363'
-  - 'T.ME: @aristapnel #364'
-  - 'T.ME: @aristapnel #365'
-  - 'T.ME: @aristapnel #366'
-  - 'T.ME: @aristapnel #367'
-  - 'T.ME: @aristapnel #368'
-  - 'T.ME: @aristapnel #369'
-  - 'T.ME: @aristapnel #370'
-  - 'T.ME: @aristapnel #371'
-  - 'T.ME: @aristapnel #372'
-  - 'T.ME: @aristapnel #373'
-  - 'T.ME: @aristapnel #374'
-  - 'T.ME: @aristapnel #375'
-  - 'T.ME: @aristapnel #376'
-  - 'T.ME: @aristapnel #377'
-  - 'T.ME: @aristapnel #378'
-  - 'T.ME: @aristapnel #379'
-  - 'T.ME: @aristapnel #380'
-  - 'T.ME: @aristapnel #381'
-  - 'T.ME: @aristapnel #382'
-  - 'T.ME: @aristapnel #383'
-  - 'T.ME: @aristapnel #384'
-  - 'T.ME: @aristapnel #385'
-  - 'T.ME: @aristapnel #386'
-  - 'T.ME: @aristapnel #387'
-  - 'T.ME: @aristapnel #388'
-  - 'T.ME: @aristapnel #389'
-  - 'T.ME: @aristapnel #390'
-  - 'T.ME: @aristapnel #391'
-  - 'T.ME: @aristapnel #392'
-  - 'T.ME: @aristapnel #393'
-  - 'T.ME: @aristapnel #394'
-  - 'T.ME: @aristapnel #395'
-  - 'T.ME: @aristapnel #396'
-  - 'T.ME: @aristapnel #397'
+  - 'Trojan #1'
+  - 'Trojan #2'
+  - 'Trojan #3'
+  - 'Trojan #4'
+  - 'Trojan #5'
+  - 'Trojan #6'
+  - 'Trojan #7'
+  - 'Trojan #8'
+  - 'Trojan #9'
+  - 'Trojan #10'
+  - 'Trojan #11'
+  - 'Trojan #12'
+  - 'Trojan #13'
+  - 'Trojan #14'
+  - 'Trojan #15'
+  - 'Trojan #16'
+  - 'Trojan #17'
+  - 'Trojan #18'
+  - 'Trojan #19'
+  - 'Trojan #20'
+  - 'Trojan #21'
+  - 'Trojan #22'
+  - 'Trojan #23'
+  - 'Trojan #24'
+  - 'Trojan #25'
+  - 'Trojan #26'
+  - 'Trojan #27'
+  - 'Trojan #28'
+  - 'Trojan #29'
+  - 'Trojan #30'
+  - 'Trojan #31'
+  - 'Trojan #32'
+  - 'Trojan #33'
+  - 'Trojan #34'
+  - 'Trojan #35'
+  - 'Trojan #36'
+  - 'Trojan #37'
+  - 'Trojan #38'
+  - 'Trojan #39'
+  - 'Trojan #40'
+  - 'Trojan #41'
+  - 'Trojan #42'
+  - 'Trojan #43'
+  - 'Trojan #44'
+  - 'Trojan #45'
+  - 'Trojan #46'
+  - 'Trojan #47'
+  - 'Trojan #48'
+  - 'Trojan #49'
+  - 'Trojan #50'
+  - 'Trojan #51'
+  - 'Trojan #52'
+  - 'Trojan #53'
+  - 'Trojan #54'
+  - 'Trojan #55'
+  - 'Trojan #56'
+  - 'Trojan #57'
+  - 'Trojan #58'
+  - 'Trojan #59'
+  - 'Trojan #60'
+  - 'Trojan #61'
+  - 'Trojan #62'
+  - 'Trojan #63'
+  - 'Trojan #64'
+  - 'Trojan #65'
+  - 'Trojan #66'
+  - 'Trojan #67'
+  - 'Trojan #68'
+  - 'Trojan #69'
+  - 'Trojan #70'
+  - 'Trojan #71'
+  - 'Trojan #72'
+  - 'Trojan #73'
+  - 'Trojan #74'
+  - 'Trojan #75'
+  - 'Trojan #76'
+  - 'Trojan #77'
+  - 'Trojan #78'
+  - 'Trojan #79'
+  - 'Trojan #80'
+  - 'Trojan #81'
+  - 'Trojan #82'
+  - 'Trojan #83'
+  - 'Trojan #84'
+  - 'Trojan #85'
+  - 'Trojan #86'
+  - 'Trojan #87'
+  - 'Trojan #88'
+  - 'Trojan #89'
+  - 'Trojan #90'
+  - 'Trojan #91'
+  - 'Trojan #92'
+  - 'Trojan #93'
+  - 'Trojan #94'
+  - 'Trojan #95'
+  - 'Trojan #96'
+  - 'Trojan #97'
+  - 'Trojan #98'
+  - 'Trojan #99'
+  - 'Trojan #100'
+  - 'Trojan #101'
+  - 'Trojan #102'
+  - 'Trojan #103'
+  - 'Trojan #104'
+  - 'Trojan #105'
+  - 'Trojan #106'
+  - 'Trojan #107'
+  - 'Trojan #108'
+  - 'Trojan #109'
+  - 'Trojan #110'
+  - 'Trojan #111'
+  - 'Trojan #112'
+  - 'Trojan #113'
+  - 'Trojan #114'
+  - 'Trojan #115'
+  - 'Trojan #116'
+  - 'Trojan #117'
+  - 'Trojan #118'
+  - 'Trojan #119'
+  - 'Trojan #120'
+  - 'Trojan #121'
+  - 'Trojan #122'
+  - 'Trojan #123'
+  - 'Trojan #124'
+  - 'Trojan #125'
+  - 'Trojan #126'
+  - 'Trojan #127'
+  - 'Trojan #128'
+  - 'Trojan #129'
+  - 'Trojan #130'
+  - 'Trojan #131'
+  - 'Trojan #132'
+  - 'Trojan #133'
+  - 'Trojan #134'
+  - 'Trojan #135'
+  - 'Trojan #136'
+  - 'Trojan #137'
+  - 'Trojan #138'
+  - 'Trojan #139'
+  - 'Trojan #140'
+  - 'Trojan #141'
+  - 'Trojan #142'
+  - 'Trojan #143'
+  - 'Trojan #144'
+  - 'Trojan #145'
+  - 'Trojan #146'
+  - 'Trojan #147'
+  - 'Trojan #148'
+  - 'Trojan #149'
+  - 'Trojan #150'
+  - 'Trojan #151'
+  - 'Trojan #152'
+  - 'Trojan #153'
+  - 'Trojan #154'
+  - 'Trojan #155'
+  - 'Trojan #156'
+  - 'Trojan #157'
+  - 'Trojan #158'
+  - 'Trojan #159'
+  - 'Trojan #160'
+  - 'Trojan #161'
+  - 'Trojan #162'
+  - 'Trojan #163'
+  - 'Trojan #164'
+  - 'Trojan #165'
+  - 'Trojan #166'
+  - 'Trojan #167'
+  - 'Trojan #168'
+  - 'Trojan #169'
+  - 'Trojan #170'
+  - 'Trojan #171'
+  - 'Trojan #172'
+  - 'Trojan #173'
+  - 'Trojan #174'
+  - 'Trojan #175'
+  - 'Trojan #176'
+  - 'Trojan #177'
+  - 'Trojan #178'
+  - 'Trojan #179'
+  - 'Trojan #180'
+  - 'Trojan #181'
+  - 'Trojan #182'
+  - 'Trojan #183'
+  - 'Trojan #184'
+  - 'Trojan #185'
+  - 'Trojan #186'
+  - 'Trojan #187'
+  - 'Trojan #188'
+  - 'Trojan #189'
+  - 'Trojan #190'
+  - 'Trojan #191'
+  - 'Trojan #192'
+  - 'Trojan #193'
+  - 'Trojan #194'
+  - 'Trojan #195'
+  - 'Trojan #196'
+  - 'Trojan #197'
+  - 'Trojan #198'
+  - 'Trojan #199'
+  - 'Trojan #200'
+  - 'Trojan #201'
+  - 'Trojan #202'
+  - 'Trojan #203'
+  - 'Trojan #204'
+  - 'Trojan #205'
+  - 'Trojan #206'
+  - 'Trojan #207'
+  - 'Trojan #208'
+  - 'Trojan #209'
+  - 'Trojan #210'
+  - 'Trojan #211'
+  - 'Trojan #212'
+  - 'Trojan #213'
+  - 'Trojan #214'
+  - 'Trojan #215'
+  - 'Trojan #216'
+  - 'Trojan #217'
+  - 'Trojan #218'
+  - 'Trojan #219'
+  - 'Trojan #220'
+  - 'Trojan #221'
+  - 'Trojan #222'
+  - 'Trojan #223'
+  - 'Trojan #224'
+  - 'Trojan #225'
+  - 'Trojan #226'
+  - 'Trojan #227'
+  - 'Trojan #228'
+  - 'Trojan #229'
+  - 'Trojan #230'
+  - 'Trojan #231'
+  - 'Trojan #232'
+  - 'Trojan #233'
+  - 'Trojan #234'
+  - 'Trojan #235'
+  - 'Trojan #236'
+  - 'Trojan #237'
+  - 'Trojan #238'
+  - 'Trojan #239'
+  - 'Trojan #240'
+  - 'Trojan #241'
+  - 'Trojan #242'
+  - 'Trojan #243'
+  - 'Trojan #244'
+  - 'Trojan #245'
+  - 'Trojan #246'
+  - 'Trojan #247'
+  - 'Trojan #248'
+  - 'Trojan #249'
+  - 'Trojan #250'
+  - 'Trojan #251'
+  - 'Trojan #252'
+  - 'Trojan #253'
+  - 'Trojan #254'
+  - 'Trojan #255'
+  - 'Trojan #256'
+  - 'Trojan #257'
+  - 'Trojan #258'
+  - 'Trojan #259'
+  - 'Trojan #260'
+  - 'Trojan #261'
+  - 'Trojan #262'
+  - 'Trojan #263'
+  - 'Trojan #264'
+  - 'Trojan #265'
+  - 'Trojan #266'
+  - 'Trojan #267'
+  - 'Trojan #268'
+  - 'Trojan #269'
+  - 'Trojan #270'
+  - 'Trojan #271'
+  - 'Trojan #272'
+  - 'Trojan #273'
+  - 'Trojan #274'
+  - 'Trojan #275'
+  - 'Trojan #276'
+  - 'Trojan #277'
+  - 'Trojan #278'
+  - 'Trojan #279'
+  - 'Trojan #280'
+  - 'Trojan #281'
+  - 'Trojan #282'
+  - 'Trojan #283'
+  - 'Trojan #284'
+  - 'Trojan #285'
+  - 'Trojan #286'
+  - 'Trojan #287'
+  - 'Trojan #288'
+  - 'Trojan #289'
+  - 'Trojan #290'
+  - 'Trojan #291'
+  - 'Trojan #292'
+  - 'Trojan #293'
+  - 'Trojan #294'
+  - 'Trojan #295'
+  - 'Trojan #296'
+  - 'Trojan #297'
+  - 'Trojan #298'
+  - 'Trojan #299'
+  - 'Trojan #300'
+  - 'Trojan #301'
+  - 'Trojan #302'
+  - 'Trojan #303'
+  - 'Trojan #304'
+  - 'Trojan #305'
+  - 'Trojan #306'
+  - 'Trojan #307'
+  - 'Trojan #308'
+  - 'Trojan #309'
+  - 'Trojan #310'
+  - 'Trojan #311'
+  - 'Trojan #312'
+  - 'Trojan #313'
+  - 'Trojan #314'
+  - 'Trojan #315'
+  - 'Trojan #316'
+  - 'Trojan #317'
+  - 'Trojan #318'
+  - 'Trojan #319'
+  - 'Trojan #320'
+  - 'Trojan #321'
+  - 'Trojan #322'
+  - 'Trojan #323'
+  - 'Trojan #324'
+  - 'Trojan #325'
+  - 'Trojan #326'
+  - 'Trojan #327'
+  - 'Trojan #328'
+  - 'Trojan #329'
+  - 'Trojan #330'
+  - 'Trojan #331'
+  - 'Trojan #332'
+  - 'Trojan #333'
+  - 'Trojan #334'
+  - 'Trojan #335'
+  - 'Trojan #336'
+  - 'Trojan #337'
+  - 'Trojan #338'
+  - 'Trojan #339'
+  - 'Trojan #340'
+  - 'Trojan #341'
+  - 'Trojan #342'
+  - 'Trojan #343'
+  - 'Trojan #344'
+  - 'Trojan #345'
+  - 'Trojan #346'
+  - 'Trojan #347'
+  - 'Trojan #348'
+  - 'Trojan #349'
+  - 'Trojan #350'
+  - 'Trojan #351'
+  - 'Trojan #352'
+  - 'Trojan #353'
+  - 'Trojan #354'
+  - 'Trojan #355'
+  - 'Trojan #356'
+  - 'Trojan #357'
+  - 'Trojan #358'
+  - 'Trojan #359'
+  - 'Trojan #360'
+  - 'Trojan #361'
+  - 'Trojan #362'
+  - 'Trojan #363'
+  - 'Trojan #364'
+  - 'Trojan #365'
+  - 'Trojan #366'
+  - 'Trojan #367'
+  - 'Trojan #368'
+  - 'Trojan #369'
+  - 'Trojan #370'
+  - 'Trojan #371'
+  - 'Trojan #372'
+  - 'Trojan #373'
+  - 'Trojan #374'
+  - 'Trojan #375'
+  - 'Trojan #376'
+  - 'Trojan #377'
+  - 'Trojan #378'
+  - 'Trojan #379'
+  - 'Trojan #380'
+  - 'Trojan #381'
+  - 'Trojan #382'
+  - 'Trojan #383'
+  - 'Trojan #384'
+  - 'Trojan #385'
+  - 'Trojan #386'
+  - 'Trojan #387'
+  - 'Trojan #388'
+  - 'Trojan #389'
+  - 'Trojan #390'
+  - 'Trojan #391'
+  - 'Trojan #392'
+  - 'Trojan #393'
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 150
