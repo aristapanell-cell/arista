@@ -12,6 +12,146 @@ from urllib.parse import urlparse, parse_qs
 BOT_TOKEN = "7620426804:AAFK-ftNMhNBY9fN7eO-M38CJApH899-kTo"
 CHANNEL_ID = -1002325683219
 
+class ConfigCategorizer:
+    def __init__(self):
+        self.security_categories = {
+            'tls': [],
+            'reality': [],
+            'no_security': []
+        }
+        
+        self.network_categories = {
+            'tcp': [],
+            'websocket': [],
+            'grpc': [],
+            'http': [],
+            'https': [],
+            'udp': [],
+            'other': []
+        }
+        
+        self.security_names_fa = {
+            'tls': 'امنیت TLS',
+            'reality': 'امنیت Reality',
+            'no_security': 'بدون امنیت'
+        }
+        
+        self.network_names_fa = {
+            'tcp': 'پروتکل TCP',
+            'websocket': 'پروتکل WebSocket',
+            'grpc': 'پروتکل gRPC',
+            'http': 'پروتکل HTTP',
+            'https': 'پروتکل HTTPS',
+            'udp': 'پروتکل UDP',
+            'other': 'سایر پروتکل‌ها'
+        }
+        
+        self.security_emojis = {
+            'tls': '🔒',
+            'reality': '🛡️',
+            'no_security': '⚠️'
+        }
+        
+        self.network_emojis = {
+            'tcp': '🔌',
+            'websocket': '🌐',
+            'grpc': '📡',
+            'http': '📨',
+            'https': '📩',
+            'udp': '📦',
+            'other': '❓'
+        }
+    
+    def categorize_config(self, config_str):
+        result = {
+            'security': 'no_security',
+            'network': 'other',
+            'original': config_str
+        }
+        
+        try:
+            if config_str.startswith('vmess://'):
+                decoded = self.decode_vmess(config_str)
+                if decoded:
+                    if decoded.get('tls') == 'tls':
+                        result['security'] = 'tls'
+                    
+                    net_type = decoded.get('net', '').lower()
+                    if net_type == 'tcp':
+                        result['network'] = 'tcp'
+                    elif net_type == 'ws':
+                        result['network'] = 'websocket'
+                    elif net_type == 'grpc':
+                        result['network'] = 'grpc'
+                    elif net_type == 'h2':
+                        result['network'] = 'https'
+                    elif net_type == 'http':
+                        result['network'] = 'http'
+            
+            elif config_str.startswith(('vless://', 'trojan://')):
+                url_part = config_str.split('#')[0] if '#' in config_str else config_str
+                parsed = urlparse(url_part.replace('vless://', 'http://').replace('trojan://', 'http://'))
+                params = parse_qs(parsed.query)
+                
+                security = params.get('security', [''])[0]
+                if security == 'reality':
+                    result['security'] = 'reality'
+                elif security in ['tls', 'xtls']:
+                    result['security'] = 'tls'
+                
+                net_type = params.get('type', ['tcp'])[0].lower()
+                if net_type == 'tcp':
+                    result['network'] = 'tcp'
+                elif net_type == 'ws':
+                    result['network'] = 'websocket'
+                elif net_type == 'grpc':
+                    result['network'] = 'grpc'
+                elif net_type == 'http':
+                    result['network'] = 'http'
+                elif net_type == 'h2':
+                    result['network'] = 'https'
+            
+            elif config_str.startswith('ss://'):
+                result['network'] = 'udp'
+            
+            elif config_str.startswith(('hysteria2://', 'hy2://', 'hysteria://')):
+                result['security'] = 'tls'
+                result['network'] = 'udp'
+            
+            elif config_str.startswith('tuic://'):
+                result['security'] = 'tls'
+                result['network'] = 'udp'
+            
+            elif config_str.startswith('wireguard://'):
+                result['network'] = 'udp'
+        
+        except:
+            pass
+        
+        return result
+    
+    def decode_vmess(self, vmess_url):
+        try:
+            base64_part = vmess_url[8:]
+            if len(base64_part) % 4 != 0:
+                base64_part += '=' * (4 - len(base64_part) % 4)
+            decoded = base64.b64decode(base64_part).decode('utf-8')
+            return json.loads(decoded)
+        except:
+            return None
+    
+    def categorize_configs(self, configs):
+        security_categorized = {k: [] for k in self.security_categories.keys()}
+        network_categorized = {k: [] for k in self.network_categories.keys()}
+        
+        for config in configs:
+            category = self.categorize_config(config)
+            
+            security_categorized[category['security']].append(config)
+            network_categorized[category['network']].append(config)
+        
+        return security_categorized, network_categorized
+
 class ConfigCombiner:
     def __init__(self):
         self.categories = [
@@ -221,6 +361,7 @@ class ConfigCombiner:
             'tuic': '🔌', 'wireguard': '🔒', 'other': '📦'
         }
         
+        self.categorizer = ConfigCategorizer()
         self.setup_webhook()
     
     def setup_webhook(self):
@@ -921,9 +1062,9 @@ class ConfigCombiner:
         clients_linux = self.client_info.get(category, {}).get('linux', 'Nekoray, ClashVerge, SingBox')
         
         caption = f"""
+<blockquote>
 {protocol_emoji} <b>{protocol_name}</b> {protocol_emoji}
 
-<blockquote>
 📊 <b>آمار:</b>
 • تعداد کانفیگ‌ها: <code>{count}</code>
 • منبع: <code>{source_persian}</code>
@@ -960,6 +1101,104 @@ class ConfigCombiner:
 """
         return caption
     
+    def create_security_caption(self, security_type, count, source, timestamp):
+        security_emoji = self.categorizer.security_emojis.get(security_type, '🔐')
+        security_name = self.categorizer.security_names_fa.get(security_type, security_type)
+        
+        source_persian = "کانال‌های تلگرام" if source == "telegram" else "مخازن گیت‌هاب"
+        
+        caption = f"""
+<blockquote>
+{security_emoji} <b>{security_name}</b> {security_emoji}
+
+📊 <b>آمار:</b>
+• تعداد کانفیگ‌ها: <code>{count}</code>
+• منبع: <code>{source_persian}</code>
+• به‌روزرسانی: <code>{timestamp}</code>
+
+📱 <b>نرم‌افزارهای سازگار:</b>
+
+🤖 <b>اندروید:</b>
+🔹 V2RayNG
+🔹 Nekobox
+🔹 ClashMeta
+🔹 SingBox
+
+🍏 <b>آی‌اواس:</b>
+🔹 Shadowrocket
+🔹 FoXray
+🔹 SingBox
+
+💻 <b>ویندوز:</b>
+🔹 v2rayN
+🔹 Nekoray
+🔹 ClashVerge
+🔹 ClashMeta
+🔹 SingBox
+
+📥 <b>روش استفاده:</b>
+👈 فایل را دانلود کنید
+👈 در نرم‌افزار وارد کنید
+👈 متصل شوید
+
+==============================
+🔗 <b>https://t.me/aristapnel</b>
+==============================
+</blockquote>
+
+#arista #security #{security_type} #vpn #freeconfig #{source} #پنل_آریستا
+"""
+        return caption
+    
+    def create_network_caption(self, network_type, count, source, timestamp):
+        network_emoji = self.categorizer.network_emojis.get(network_type, '🌐')
+        network_name = self.categorizer.network_names_fa.get(network_type, network_type)
+        
+        source_persian = "کانال‌های تلگرام" if source == "telegram" else "مخازن گیت‌هاب"
+        
+        caption = f"""
+<blockquote>
+{network_emoji} <b>{network_name}</b> {network_emoji}
+
+📊 <b>آمار:</b>
+• تعداد کانفیگ‌ها: <code>{count}</code>
+• منبع: <code>{source_persian}</code>
+• به‌روزرسانی: <code>{timestamp}</code>
+
+📱 <b>نرم‌افزارهای سازگار:</b>
+
+🤖 <b>اندروید:</b>
+🔹 V2RayNG
+🔹 Nekobox
+🔹 ClashMeta
+🔹 SingBox
+
+🍏 <b>آی‌اواس:</b>
+🔹 Shadowrocket
+🔹 FoXray
+🔹 SingBox
+
+💻 <b>ویندوز:</b>
+🔹 v2rayN
+🔹 Nekoray
+🔹 ClashVerge
+🔹 ClashMeta
+🔹 SingBox
+
+📥 <b>روش استفاده:</b>
+👈 فایل را دانلود کنید
+👈 در نرم‌افزار وارد کنید
+👈 متصل شوید
+
+==============================
+🔗 <b>https://t.me/aristapnel</b>
+==============================
+</blockquote>
+
+#arista #network #{network_type} #vpn #freeconfig #{source} #پنل_آریستا
+"""
+        return caption
+    
     def create_clashmeta_caption(self, protocol, count, timestamp, source_type):
         protocol_emoji = self.protocol_emojis.get(protocol, '🔥')
         protocol_name = self.protocol_names_fa.get(protocol, protocol.upper())
@@ -967,9 +1206,9 @@ class ConfigCombiner:
         source_persian = "تلگرام" if source_type == "telegram" else "گیت‌هاب"
         
         caption = f"""
+<blockquote>
 {protocol_emoji} <b>کانفیگ اختصاصی ClashMeta - {protocol_name} ({source_persian})</b> {protocol_emoji}
 
-<blockquote>
 📊 <b>آمار:</b>
 • تعداد پروکسی‌ها: <code>{count}</code>
 • فرمت: <code>YAML</code>
@@ -1030,6 +1269,57 @@ class ConfigCombiner:
         
         return unique_configs
     
+    def post_categorized_files(self, source_type):
+        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        display_timestamp = datetime.now().strftime('%Y/%m/%d - %H:%M UTC')
+        
+        all_configs = []
+        for category in self.categories:
+            configs = self.read_configs(f'configs/{source_type}/{category}.txt')
+            all_configs.extend(configs)
+        
+        if not all_configs:
+            return
+        
+        security_categorized, network_categorized = self.categorizer.categorize_configs(all_configs)
+        
+        os.makedirs(f'configs/{source_type}/security', exist_ok=True)
+        os.makedirs(f'configs/{source_type}/network', exist_ok=True)
+        
+        for security_type, configs in security_categorized.items():
+            if configs:
+                unique_configs = self.deduplicate(configs)
+                filename = f"configs/{source_type}/security/{security_type}.txt"
+                content = f"# {security_type.upper()} Security Configurations\n"
+                content += f"# Updated: {timestamp}\n"
+                content += f"# Count: {len(unique_configs)}\n"
+                content += f"# Source: {source_type.capitalize()}\n\n"
+                content += "\n".join(unique_configs)
+                
+                with open(filename, 'w', encoding='utf-8') as f:
+                    f.write(content)
+                
+                caption = self.create_security_caption(security_type, len(unique_configs), source_type, display_timestamp)
+                self.send_to_telegram(filename, caption)
+                time.sleep(1)
+        
+        for network_type, configs in network_categorized.items():
+            if configs:
+                unique_configs = self.deduplicate(configs)
+                filename = f"configs/{source_type}/network/{network_type}.txt"
+                content = f"# {network_type.upper()} Network Configurations\n"
+                content += f"# Updated: {timestamp}\n"
+                content += f"# Count: {len(unique_configs)}\n"
+                content += f"# Source: {source_type.capitalize()}\n\n"
+                content += "\n".join(unique_configs)
+                
+                with open(filename, 'w', encoding='utf-8') as f:
+                    f.write(content)
+                
+                caption = self.create_network_caption(network_type, len(unique_configs), source_type, display_timestamp)
+                self.send_to_telegram(filename, caption)
+                time.sleep(1)
+    
     def post_telegram_files(self):
         os.makedirs('configs/telegram', exist_ok=True)
         
@@ -1061,6 +1351,8 @@ class ConfigCombiner:
                 self.send_to_telegram(filename, caption)
                 posted_files.append(filename)
                 time.sleep(1)
+        
+        self.post_categorized_files('telegram')
     
     def post_github_files(self):
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -1091,6 +1383,8 @@ class ConfigCombiner:
                 self.send_to_telegram(filename, caption)
                 posted_files.append(filename)
                 time.sleep(1)
+        
+        self.post_categorized_files('github')
     
     def post_clashmeta_files(self):
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -1196,6 +1490,19 @@ class ConfigCombiner:
                 print(f"  🔥 clashmeta/telegram/{protocol}.yaml: فایل ClashMeta از تلگرام")
             if os.path.exists(f'configs/clashmeta/github/{protocol}.yaml'):
                 print(f"  🔥 clashmeta/github/{protocol}.yaml: فایل ClashMeta از گیت‌هاب")
+        
+        for source in ['telegram', 'github']:
+            security_dir = f'configs/{source}/security'
+            if os.path.exists(security_dir):
+                for file in os.listdir(security_dir):
+                    if file.endswith('.txt'):
+                        print(f"  🔐 {source}/{file}: فایل دسته‌بندی امنیت")
+            
+            network_dir = f'configs/{source}/network'
+            if os.path.exists(network_dir):
+                for file in os.listdir(network_dir):
+                    if file.endswith('.txt'):
+                        print(f"  🌐 {source}/{file}: فایل دسته‌بندی شبکه")
         
         print(f"  📦 combined/all.txt: {total_combined} کانفیگ")
         print("=" * 60)
