@@ -2434,22 +2434,20 @@ proxies:
   client-fingerprint: chrome
 - name: 'T.ME: @aristapnel #161'
   type: trojan
-  server: 172.64.152.23
-  port: 443
-  password: humanity
-  network: ws
+  server: 35.181.213.186
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: www.multiplydose.com
+  servername: trojan.burgerip.co.uk
   client-fingerprint: chrome
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.multiplydose.com
+  alpn:
+  - http/1.1
 - name: 'T.ME: @aristapnel #162'
   type: trojan
-  server: 35.181.68.122
+  server: 18.195.254.156
   port: 22223
   password: telegram-id-directvpn
   network: tcp
@@ -2462,7 +2460,7 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #163'
   type: trojan
-  server: 35.181.213.186
+  server: 35.157.86.22
   port: 22222
   password: telegram-id-privatevpns
   network: tcp
@@ -2475,18 +2473,18 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #164'
   type: trojan
-  server: 58.152.110.40
-  port: 443
-  password: ea39fa94f1ee00999337ea1fd3318e69
+  server: 167.17.70.117
+  port: 27234
+  password: kuGDUhAYqXnvIomV0Kdljfor
   network: tcp
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: www.nintendogames.net
+  servername: 167.17.70.117
   client-fingerprint: chrome
 - name: 'T.ME: @aristapnel #165'
   type: trojan
-  server: 13.39.244.211
+  server: 13.37.184.19
   port: 22223
   password: telegram-id-directvpn
   network: tcp
@@ -2499,18 +2497,20 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #166'
   type: trojan
-  server: 91.107.141.0
-  port: 23825
-  password: ziIjOlyGbM
+  server: 35.156.94.149
+  port: 22223
+  password: telegram-id-directvpn
   network: tcp
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: 91.107.141.0
+  servername: trojan.burgerip.co.uk
   client-fingerprint: chrome
+  alpn:
+  - http/1.1
 - name: 'T.ME: @aristapnel #167'
   type: trojan
-  server: 35.181.213.186
+  server: 13.39.244.211
   port: 22223
   password: telegram-id-directvpn
   network: tcp
@@ -2524,8 +2524,8 @@ proxies:
 - name: 'T.ME: @aristapnel #168'
   type: trojan
   server: 15.188.233.114
-  port: 22223
-  password: telegram-id-directvpn
+  port: 22222
+  password: telegram-id-privatevpns
   network: tcp
   udp: true
   skip-cert-verify: false
@@ -2535,108 +2535,6 @@ proxies:
   alpn:
   - http/1.1
 - name: 'T.ME: @aristapnel #169'
-  type: trojan
-  server: 15.188.233.114
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #170'
-  type: trojan
-  server: 13.38.166.241
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #171'
-  type: trojan
-  server: 13.38.166.241
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #172'
-  type: trojan
-  server: 37.27.249.93
-  port: 20000
-  password: 2AAF5UEsSd
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: 37.27.249.93
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #173'
-  type: trojan
-  server: 52.29.75.76
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #174'
-  type: trojan
-  server: chatgpt.com
-  port: 443
-  password: humanity
-  network: ws
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: www.gossipglove.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.gossipglove.com
-- name: 'T.ME: @aristapnel #175'
-  type: trojan
-  server: 23.186.200.108
-  port: 11012
-  password: 898e1dca-14b2-4371-abc8-1b9f839bff6d
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: wus02.weyaf9sdoh2h.space
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #176'
-  type: trojan
-  server: 35.181.35.59
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #177'
   type: trojan
   server: 3.65.47.214
   port: 22222
@@ -2649,22 +2547,20 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #178'
+- name: 'T.ME: @aristapnel #170'
   type: trojan
-  server: 35.181.68.122
-  port: 22222
-  password: telegram-id-privatevpns
+  server: 37.27.249.93
+  port: 20000
+  password: 2AAF5UEsSd
   network: tcp
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
+  servername: 37.27.249.93
   client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #179'
+- name: 'T.ME: @aristapnel #171'
   type: trojan
-  server: 35.156.94.149
+  server: 52.29.75.76
   port: 22223
   password: telegram-id-directvpn
   network: tcp
@@ -2675,9 +2571,9 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #180'
+- name: 'T.ME: @aristapnel #172'
   type: trojan
-  server: 13.37.184.19
+  server: 35.181.11.162
   port: 22223
   password: telegram-id-directvpn
   network: tcp
@@ -2688,85 +2584,18 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #181'
+- name: 'T.ME: @aristapnel #173'
   type: trojan
-  server: 15.236.213.225
-  port: 22222
-  password: telegram-id-privatevpns
+  server: 23.186.200.107
+  port: 11011
+  password: 898e1dca-14b2-4371-abc8-1b9f839bff6d
   network: tcp
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
+  servername: wus01.weyaf9sdoh2h.space
   client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #182'
-  type: trojan
-  server: 18.195.254.156
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #183'
-  type: trojan
-  server: www.calmlunch.com
-  port: 443
-  password: humanity
-  network: ws
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: www.calmlunch.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: 'T.ME: @aristapnel #184'
-  type: trojan
-  server: 35.181.35.59
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #185'
-  type: trojan
-  server: 13.37.184.19
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #186'
-  type: trojan
-  server: 88.99.184.17
-  port: 40450
-  password: KBgnXadFmC
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: 88.99.184.17
-  client-fingerprint: chrome
-- name: 'T.ME: @aristapnel #187'
+- name: 'T.ME: @aristapnel #174'
   type: trojan
   server: 172.67.134.185
   port: 443
@@ -2781,7 +2610,70 @@ proxies:
     path: /eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed
     headers:
       Host: reDfRee8.REDFree8.ir
-- name: 'T.ME: @aristapnel #188'
+- name: 'T.ME: @aristapnel #175'
+  type: trojan
+  server: 52.29.75.76
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'T.ME: @aristapnel #176'
+  type: trojan
+  server: 13.37.184.19
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'T.ME: @aristapnel #177'
+  type: trojan
+  server: 172.238.229.254
+  port: 14051
+  password: OdgHycGphesfLmPMYolUF
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: api.avito.ru
+  client-fingerprint: chrome
+- name: 'T.ME: @aristapnel #178'
+  type: trojan
+  server: 35.181.35.59
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'T.ME: @aristapnel #179'
+  type: trojan
+  server: 13.38.166.241
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'T.ME: @aristapnel #180'
   type: trojan
   server: 35.157.86.22
   port: 22223
@@ -2794,33 +2686,122 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
+- name: 'T.ME: @aristapnel #181'
+  type: trojan
+  server: 35.181.35.59
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'T.ME: @aristapnel #182'
+  type: trojan
+  server: 13.38.166.241
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'T.ME: @aristapnel #183'
+  type: trojan
+  server: 3.120.230.145
+  port: 22223
+  password: telegram-id-directvpn
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'T.ME: @aristapnel #184'
+  type: trojan
+  server: www.calmlunch.com
+  port: 443
+  password: humanity
+  network: ws
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: www.calmlunch.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: 'T.ME: @aristapnel #185'
+  type: trojan
+  server: 91.107.141.0
+  port: 23825
+  password: ziIjOlyGbM
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: 91.107.141.0
+  client-fingerprint: chrome
+- name: 'T.ME: @aristapnel #186'
+  type: trojan
+  server: 172.64.152.23
+  port: 443
+  password: humanity
+  network: ws
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: www.gossipglove.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.gossipglove.com
+- name: 'T.ME: @aristapnel #187'
+  type: trojan
+  server: 23.186.200.108
+  port: 11012
+  password: 898e1dca-14b2-4371-abc8-1b9f839bff6d
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: wus02.weyaf9sdoh2h.space
+  client-fingerprint: chrome
+- name: 'T.ME: @aristapnel #188'
+  type: trojan
+  server: 18.195.254.156
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
 - name: 'T.ME: @aristapnel #189'
   type: trojan
-  server: 35.181.11.162
-  port: 22223
-  password: telegram-id-directvpn
+  server: 58.152.110.40
+  port: 443
+  password: ea39fa94f1ee00999337ea1fd3318e69
   network: tcp
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
+  servername: www.nintendogames.net
   client-fingerprint: chrome
-  alpn:
-  - http/1.1
 - name: 'T.ME: @aristapnel #190'
-  type: trojan
-  server: 15.236.213.225
-  port: 22223
-  password: telegram-id-directvpn
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #191'
   type: trojan
   server: 52.58.227.219
   port: 22223
@@ -2833,11 +2814,22 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
+- name: 'T.ME: @aristapnel #191'
+  type: trojan
+  server: 88.99.184.17
+  port: 40450
+  password: KBgnXadFmC
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: 88.99.184.17
+  client-fingerprint: chrome
 - name: 'T.ME: @aristapnel #192'
   type: trojan
-  server: 18.195.254.156
-  port: 22223
-  password: telegram-id-directvpn
+  server: 52.58.227.219
+  port: 22222
+  password: telegram-id-privatevpns
   network: tcp
   udp: true
   skip-cert-verify: false
@@ -2861,7 +2853,7 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #194'
   type: trojan
-  server: 35.157.86.22
+  server: 35.181.11.162
   port: 22222
   password: telegram-id-privatevpns
   network: tcp
@@ -2874,20 +2866,24 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #195'
   type: trojan
-  server: 172.238.229.254
-  port: 14051
-  password: OdgHycGphesfLmPMYolUF
-  network: tcp
+  server: 172.64.152.23
+  port: 443
+  password: humanity
+  network: ws
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: api.avito.ru
+  servername: www.multiplydose.com
   client-fingerprint: chrome
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.multiplydose.com
 - name: 'T.ME: @aristapnel #196'
   type: trojan
-  server: 52.58.227.219
-  port: 22222
-  password: telegram-id-privatevpns
+  server: 35.181.68.122
+  port: 22223
+  password: telegram-id-directvpn
   network: tcp
   udp: true
   skip-cert-verify: false
@@ -2898,18 +2894,20 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #197'
   type: trojan
-  server: 23.186.200.107
-  port: 11011
-  password: 898e1dca-14b2-4371-abc8-1b9f839bff6d
+  server: 35.181.213.186
+  port: 22223
+  password: telegram-id-directvpn
   network: tcp
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: wus01.weyaf9sdoh2h.space
+  servername: trojan.burgerip.co.uk
   client-fingerprint: chrome
+  alpn:
+  - http/1.1
 - name: 'T.ME: @aristapnel #198'
   type: trojan
-  server: 172.64.152.23
+  server: chatgpt.com
   port: 443
   password: humanity
   network: ws
@@ -2924,7 +2922,7 @@ proxies:
       Host: www.gossipglove.com
 - name: 'T.ME: @aristapnel #199'
   type: trojan
-  server: 35.181.11.162
+  server: 3.120.230.145
   port: 22222
   password: telegram-id-privatevpns
   network: tcp
@@ -2937,7 +2935,7 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #200'
   type: trojan
-  server: 13.39.244.211
+  server: 35.156.94.149
   port: 22222
   password: telegram-id-privatevpns
   network: tcp
@@ -2950,20 +2948,7 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #201'
   type: trojan
-  server: 35.156.94.149
-  port: 22222
-  password: telegram-id-privatevpns
-  network: tcp
-  udp: true
-  skip-cert-verify: false
-  tcp-fast-open: true
-  servername: trojan.burgerip.co.uk
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
-- name: 'T.ME: @aristapnel #202'
-  type: trojan
-  server: 52.29.75.76
+  server: 15.188.233.114
   port: 22223
   password: telegram-id-directvpn
   network: tcp
@@ -2974,17 +2959,32 @@ proxies:
   client-fingerprint: chrome
   alpn:
   - http/1.1
-- name: 'T.ME: @aristapnel #203'
+- name: 'T.ME: @aristapnel #202'
   type: trojan
-  server: 167.17.70.117
-  port: 27234
-  password: kuGDUhAYqXnvIomV0Kdljfor
+  server: 13.39.244.211
+  port: 22222
+  password: telegram-id-privatevpns
   network: tcp
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: 167.17.70.117
+  servername: trojan.burgerip.co.uk
   client-fingerprint: chrome
+  alpn:
+  - http/1.1
+- name: 'T.ME: @aristapnel #203'
+  type: trojan
+  server: 35.181.68.122
+  port: 22222
+  password: telegram-id-privatevpns
+  network: tcp
+  udp: true
+  skip-cert-verify: false
+  tcp-fast-open: true
+  servername: trojan.burgerip.co.uk
+  client-fingerprint: chrome
+  alpn:
+  - http/1.1
 - name: 'T.ME: @aristapnel #204'
   type: trojan
   server: 212.192.14.227
@@ -3330,22 +3330,18 @@ proxies:
   client-fingerprint: chrome
 - name: 'T.ME: @aristapnel #233'
   type: trojan
-  server: hl-freedom-2.undef.network
-  port: 443
-  password: Tn2Bf0iRwJkJQgDk6gX6x81RB
-  network: ws
+  server: 5.34.222.4
+  port: 43642
+  password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3
+  network: tcp
   udp: true
   skip-cert-verify: false
   tcp-fast-open: true
-  servername: hl-freedom-2.undef.network
+  servername: 5.34.222.4
   client-fingerprint: chrome
-  ws-opts:
-    path: /f2fc2a1f
-    headers:
-      Host: hl-freedom-2.undef.network
 - name: 'T.ME: @aristapnel #234'
   type: trojan
-  server: 3.120.230.145
+  server: 52.28.169.181
   port: 22222
   password: telegram-id-privatevpns
   network: tcp
@@ -3358,7 +3354,7 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #235'
   type: trojan
-  server: 52.28.169.181
+  server: 13.36.103.205
   port: 22222
   password: telegram-id-privatevpns
   network: tcp
@@ -3371,7 +3367,7 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #236'
   type: trojan
-  server: 13.36.103.205
+  server: 13.39.219.34
   port: 22222
   password: telegram-id-privatevpns
   network: tcp
@@ -3384,7 +3380,7 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #237'
   type: trojan
-  server: 3.120.230.145
+  server: 52.28.169.181
   port: 22223
   password: telegram-id-directvpn
   network: tcp
@@ -3397,7 +3393,7 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #238'
   type: trojan
-  server: 52.28.169.181
+  server: 13.36.103.205
   port: 22223
   password: telegram-id-directvpn
   network: tcp
@@ -3410,7 +3406,7 @@ proxies:
   - http/1.1
 - name: 'T.ME: @aristapnel #239'
   type: trojan
-  server: 13.36.103.205
+  server: 13.39.219.34
   port: 22223
   password: telegram-id-directvpn
   network: tcp
